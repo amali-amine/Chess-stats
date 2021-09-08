@@ -1,0 +1,5284 @@
+{
+    "rapid": {
+        "nihalsarin2004": {
+            "rating": "?",
+            "Victories": "7",
+            "Draws": "0",
+            "Defeats": "1"
+        },
+        "MrBochwalt": {
+            "rating": "2907.58",
+            "Victories": "249",
+            "Draws": "24",
+            "Defeats": "38"
+        },
+        "RebeccaHarris": {
+            "rating": "2119.19",
+            "Victories": "24",
+            "Draws": "1",
+            "Defeats": "13"
+        },
+        "Federicov93": {
+            "rating": "?",
+            "Victories": "158",
+            "Draws": "26",
+            "Defeats": "16"
+        },
+        "Arka50": {
+            "rating": "2510.77",
+            "Victories": "80",
+            "Draws": "4",
+            "Defeats": "15"
+        },
+        "OhanyanEminChess": {
+            "rating": "2426.45",
+            "Victories": "368",
+            "Draws": "106",
+            "Defeats": "152"
+        },
+        "chessbrahs": {
+            "rating": "?",
+            "Victories": "21",
+            "Draws": "0",
+            "Defeats": "1"
+        },
+        "Mitrabha": {
+            "rating": "2096.30",
+            "Victories": "30",
+            "Draws": "5",
+            "Defeats": "16"
+        },
+        "Zhigalko_Sergei": {
+            "rating": "2947.08",
+            "Victories": "332",
+            "Draws": "12",
+            "Defeats": "19"
+        },
+        "Eduiturri": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "AnishGiri": {
+            "rating": "2700.00",
+            "Victories": "14",
+            "Draws": "5",
+            "Defeats": "1"
+        },
+        "ultraking1": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Alexander_Zubov": {
+            "rating": "2460.81",
+            "Victories": "34",
+            "Draws": "3",
+            "Defeats": "1"
+        },
+        "MatthewG-p4p": {
+            "rating": "2474.73",
+            "Victories": "191",
+            "Draws": "44",
+            "Defeats": "24"
+        },
+        "SVODMEVKO": {
+            "rating": "?",
+            "Victories": "1",
+            "Draws": "2",
+            "Defeats": "1"
+        },
+        "BIZOO": {
+            "rating": "2806.19",
+            "Victories": "292",
+            "Draws": "32",
+            "Defeats": "38"
+        },
+        "Kallepook": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "MasterAssasin123": {
+            "rating": "2451.91",
+            "Victories": "44",
+            "Draws": "19",
+            "Defeats": "12"
+        },
+        "DrHotPotato": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Tayka": {
+            "rating": "?",
+            "Victories": "65",
+            "Draws": "5",
+            "Defeats": "6"
+        },
+        "muisback": {
+            "rating": "?",
+            "Victories": "3",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Esssquire": {
+            "rating": "?",
+            "Victories": "32",
+            "Draws": "3",
+            "Defeats": "4"
+        },
+        "Yottabyte97": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "chessmaster2006": {
+            "rating": "2274.47",
+            "Victories": "30",
+            "Draws": "1",
+            "Defeats": "5"
+        },
+        "Kelevra317": {
+            "rating": "1975.25",
+            "Victories": "44",
+            "Draws": "4",
+            "Defeats": "23"
+        },
+        "Mnogoznaal11": {
+            "rating": "?",
+            "Victories": "13",
+            "Draws": "24",
+            "Defeats": "4"
+        },
+        "defenceboy1": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "HistoriaReisss": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "mutdpro": {
+            "rating": "2251.32",
+            "Victories": "78",
+            "Draws": "21",
+            "Defeats": "35"
+        },
+        "Artem_0degov": {
+            "rating": "2602.50",
+            "Victories": "1190",
+            "Draws": "341",
+            "Defeats": "252"
+        },
+        "Watneg": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "ggwp_2021": {
+            "rating": "?",
+            "Victories": "5",
+            "Draws": "0",
+            "Defeats": "3"
+        },
+        "tptagain": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "FC_Rostov": {
+            "rating": "2500.67",
+            "Victories": "405",
+            "Draws": "42",
+            "Defeats": "71"
+        },
+        "dmitrij_IM": {
+            "rating": "?",
+            "Victories": "10",
+            "Draws": "1",
+            "Defeats": "1"
+        },
+        "Vetranio": {
+            "rating": "1772.72",
+            "Victories": "21",
+            "Draws": "9",
+            "Defeats": "19"
+        },
+        "Miawlet": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "pressive": {
+            "rating": "2469.58",
+            "Victories": "895",
+            "Draws": "51",
+            "Defeats": "81"
+        },
+        "Azerichessss": {
+            "rating": "2369.13",
+            "Victories": "20",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "RoadTo3050": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "dotaislife": {
+            "rating": "2263.11",
+            "Victories": "37",
+            "Draws": "2",
+            "Defeats": "22"
+        },
+        "drop_stone": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "1"
+        },
+        "GMadly": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "FlamingFM": {
+            "rating": "2222.09",
+            "Victories": "47",
+            "Draws": "7",
+            "Defeats": "9"
+        },
+        "catask": {
+            "rating": "?",
+            "Victories": "1",
+            "Draws": "1",
+            "Defeats": "1"
+        },
+        "AngelitoRT": {
+            "rating": "?",
+            "Victories": "156",
+            "Draws": "11",
+            "Defeats": "19"
+        },
+        "Shant7777777": {
+            "rating": "2317.74",
+            "Victories": "35",
+            "Draws": "12",
+            "Defeats": "13"
+        },
+        "Chesstoday": {
+            "rating": "2238.33",
+            "Victories": "6",
+            "Draws": "1",
+            "Defeats": "5"
+        },
+        "Chess_Is_Life23": {
+            "rating": "2574.99",
+            "Victories": "94",
+            "Draws": "20",
+            "Defeats": "39"
+        },
+        "TenzaSangetsu": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "kyart2": {
+            "rating": "2308.20",
+            "Victories": "9",
+            "Draws": "6",
+            "Defeats": "8"
+        },
+        "CashVampire": {
+            "rating": "1803.77",
+            "Victories": "449",
+            "Draws": "56",
+            "Defeats": "73"
+        },
+        "VariantsOnly": {
+            "rating": "2565.36",
+            "Victories": "410",
+            "Draws": "24",
+            "Defeats": "77"
+        },
+        "Aronyak1": {
+            "rating": "2467.19",
+            "Victories": "60",
+            "Draws": "11",
+            "Defeats": "11"
+        },
+        "NeverEnough": {
+            "rating": "2516.92",
+            "Victories": "6",
+            "Draws": "4",
+            "Defeats": "3"
+        },
+        "swimmerchess": {
+            "rating": "2546.74",
+            "Victories": "55",
+            "Draws": "5",
+            "Defeats": "2"
+        },
+        "Amateur_IM": {
+            "rating": "?",
+            "Victories": "1",
+            "Draws": "1",
+            "Defeats": "1"
+        },
+        "ARM-777777": {
+            "rating": "2427.81",
+            "Victories": "18",
+            "Draws": "7",
+            "Defeats": "9"
+        },
+        "pamaldutou": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "AgressiveMode": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "vroeli": {
+            "rating": "2506.78",
+            "Victories": "17",
+            "Draws": "10",
+            "Defeats": "4"
+        },
+        "Invisible_Anonymouse": {
+            "rating": "2074.28",
+            "Victories": "9",
+            "Draws": "0",
+            "Defeats": "2"
+        },
+        "BabaRamdev": {
+            "rating": "2310.47",
+            "Victories": "30",
+            "Draws": "11",
+            "Defeats": "46"
+        },
+        "EltajSafarli": {
+            "rating": "2550.15",
+            "Victories": "60",
+            "Draws": "41",
+            "Defeats": "16"
+        },
+        "Elda64": {
+            "rating": "?",
+            "Victories": "51",
+            "Draws": "0",
+            "Defeats": "22"
+        },
+        "Abik02": {
+            "rating": "?",
+            "Victories": "3",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "msb2": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Grancanarias": {
+            "rating": "?",
+            "Victories": "6",
+            "Draws": "0",
+            "Defeats": "1"
+        },
+        "Praggnanandhaachess": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "two64brocc": {
+            "rating": "?",
+            "Victories": "14",
+            "Draws": "2",
+            "Defeats": "2"
+        },
+        "Blazinq": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "toivok3": {
+            "rating": "2509.24",
+            "Victories": "166",
+            "Draws": "65",
+            "Defeats": "42"
+        },
+        "Eyesless18": {
+            "rating": "?",
+            "Victories": "1",
+            "Draws": "3",
+            "Defeats": "1"
+        },
+        "GMVallejo": {
+            "rating": "2662.74",
+            "Victories": "30",
+            "Draws": "5",
+            "Defeats": "4"
+        },
+        "promacherr": {
+            "rating": "2489.93",
+            "Victories": "462",
+            "Draws": "46",
+            "Defeats": "59"
+        },
+        "Proutix99": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "THEFRANKENSTEIN": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "iamstraw": {
+            "rating": "2338.98",
+            "Victories": "13",
+            "Draws": "8",
+            "Defeats": "35"
+        },
+        "Chesser22": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Ragadingdong": {
+            "rating": "2596.94",
+            "Victories": "31",
+            "Draws": "1",
+            "Defeats": "1"
+        },
+        "Heisenberg01": {
+            "rating": "?",
+            "Victories": "1",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Bardiya___Daneshvar": {
+            "rating": "1459.85",
+            "Victories": "0",
+            "Draws": "4",
+            "Defeats": "3"
+        },
+        "yoseph2013": {
+            "rating": "2461.14",
+            "Victories": "124",
+            "Draws": "91",
+            "Defeats": "40"
+        },
+        "abyssus": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Yao_Zhihao": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "anonymous_king64": {
+            "rating": "?",
+            "Victories": "4",
+            "Draws": "1",
+            "Defeats": "0"
+        },
+        "xxysoul6": {
+            "rating": "?",
+            "Victories": "2",
+            "Draws": "0",
+            "Defeats": "1"
+        },
+        "Rakhmanov_Aleksandr": {
+            "rating": "2506.46",
+            "Victories": "45",
+            "Draws": "5",
+            "Defeats": "6"
+        },
+        "Twelvedigits": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Guary1": {
+            "rating": "2549.39",
+            "Victories": "43",
+            "Draws": "2",
+            "Defeats": "6"
+        },
+        "Quparadze": {
+            "rating": "1618.25",
+            "Victories": "4",
+            "Draws": "2",
+            "Defeats": "2"
+        },
+        "DanielDardha2005": {
+            "rating": "1955.67",
+            "Victories": "2",
+            "Draws": "1",
+            "Defeats": "2"
+        },
+        "dolar9": {
+            "rating": "2255.51",
+            "Victories": "22",
+            "Draws": "6",
+            "Defeats": "1"
+        },
+        "shrekdavid": {
+            "rating": "2345.27",
+            "Victories": "40",
+            "Draws": "1",
+            "Defeats": "6"
+        },
+        "Arseniii_Nesterov": {
+            "rating": "2612.59",
+            "Victories": "19",
+            "Draws": "11",
+            "Defeats": "10"
+        },
+        "Zkid": {
+            "rating": "?",
+            "Victories": "85",
+            "Draws": "1",
+            "Defeats": "1"
+        },
+        "maybe_maybe": {
+            "rating": "2708.81",
+            "Victories": "55",
+            "Draws": "5",
+            "Defeats": "13"
+        },
+        "Kidefence": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "tinymonster": {
+            "rating": "?",
+            "Victories": "2",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Riquelme93": {
+            "rating": "2522.94",
+            "Victories": "21",
+            "Draws": "6",
+            "Defeats": "3"
+        },
+        "chessm3g1c": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "AdriD": {
+            "rating": "2569.19",
+            "Victories": "200",
+            "Draws": "20",
+            "Defeats": "11"
+        },
+        "amirsose97": {
+            "rating": "2126.49",
+            "Victories": "101",
+            "Draws": "10",
+            "Defeats": "13"
+        },
+        "CakeinSpace": {
+            "rating": "?",
+            "Victories": "1",
+            "Draws": "2",
+            "Defeats": "0"
+        },
+        "raton-123": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "letgoh": {
+            "rating": "2532.40",
+            "Victories": "5",
+            "Draws": "0",
+            "Defeats": "1"
+        },
+        "Zaven_ChessMood": {
+            "rating": "2249.23",
+            "Victories": "121",
+            "Draws": "9",
+            "Defeats": "12"
+        },
+        "bangchess21": {
+            "rating": "2422.77",
+            "Victories": "132",
+            "Draws": "13",
+            "Defeats": "19"
+        },
+        "Islam_Haceliyev": {
+            "rating": "2417.09",
+            "Victories": "25",
+            "Draws": "6",
+            "Defeats": "15"
+        },
+        "Rikkk17": {
+            "rating": "?",
+            "Victories": "1",
+            "Draws": "1",
+            "Defeats": "0"
+        },
+        "LastGladiator2": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "dimochka_tsoi": {
+            "rating": "2385.18",
+            "Victories": "57",
+            "Draws": "9",
+            "Defeats": "25"
+        },
+        "Restrano": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Mrdalica": {
+            "rating": "2369.83",
+            "Victories": "35",
+            "Draws": "12",
+            "Defeats": "7"
+        },
+        "AbasovN": {
+            "rating": "2486.80",
+            "Victories": "42",
+            "Draws": "4",
+            "Defeats": "11"
+        },
+        "DarthMccartney": {
+            "rating": "?",
+            "Victories": "3",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "anonymouslogin111": {
+            "rating": "?",
+            "Victories": "1",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Dagda7": {
+            "rating": "2172.54",
+            "Victories": "12",
+            "Draws": "5",
+            "Defeats": "5"
+        },
+        "fireemblem6": {
+            "rating": "2169.69",
+            "Victories": "12",
+            "Draws": "0",
+            "Defeats": "1"
+        },
+        "amsberserker": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "quezadafranco": {
+            "rating": "2308.27",
+            "Victories": "154",
+            "Draws": "20",
+            "Defeats": "89"
+        },
+        "wizard98": {
+            "rating": "2219.17",
+            "Victories": "3",
+            "Draws": "0",
+            "Defeats": "2"
+        },
+        "youareagmharry": {
+            "rating": "2445.31",
+            "Victories": "23",
+            "Draws": "3",
+            "Defeats": "8"
+        },
+        "Rekcul": {
+            "rating": "2318.37",
+            "Victories": "67",
+            "Draws": "19",
+            "Defeats": "11"
+        },
+        "GasHaunter": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Kurottsuchi": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "hitter1999": {
+            "rating": "2242.10",
+            "Victories": "6",
+            "Draws": "3",
+            "Defeats": "1"
+        },
+        "MknRobok": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Shnr": {
+            "rating": "1652.51",
+            "Victories": "12",
+            "Draws": "0",
+            "Defeats": "18"
+        },
+        "Banjovi": {
+            "rating": "2514.02",
+            "Victories": "20",
+            "Draws": "15",
+            "Defeats": "2"
+        },
+        "RoadToFM-L": {
+            "rating": "2409.58",
+            "Victories": "31",
+            "Draws": "0",
+            "Defeats": "5"
+        },
+        "MadameCheckmate": {
+            "rating": "2331.48",
+            "Victories": "9",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Johnking": {
+            "rating": "2222.66",
+            "Victories": "24",
+            "Draws": "13",
+            "Defeats": "14"
+        },
+        "Fighterman91": {
+            "rating": "?",
+            "Victories": "373",
+            "Draws": "62",
+            "Defeats": "41"
+        },
+        "Astramariy": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "1",
+            "Defeats": "3"
+        },
+        "Gogithewise": {
+            "rating": "?",
+            "Victories": "1",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Hellblazer2007": {
+            "rating": "2500.10",
+            "Victories": "7",
+            "Draws": "1",
+            "Defeats": "0"
+        },
+        "JurgenSanchez97": {
+            "rating": "?",
+            "Victories": "4",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "BoardDemon": {
+            "rating": "2181.74",
+            "Victories": "24",
+            "Draws": "10",
+            "Defeats": "12"
+        },
+        "AFunder": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Infernal_XaM": {
+            "rating": "2576.49",
+            "Victories": "37",
+            "Draws": "5",
+            "Defeats": "3"
+        },
+        "ABachmann": {
+            "rating": "?",
+            "Victories": "290",
+            "Draws": "115",
+            "Defeats": "26"
+        },
+        "idelaria": {
+            "rating": "2457.50",
+            "Victories": "69",
+            "Draws": "6",
+            "Defeats": "6"
+        },
+        "Federtiu": {
+            "rating": "2386.19",
+            "Victories": "60",
+            "Draws": "6",
+            "Defeats": "9"
+        },
+        "Hovik7": {
+            "rating": "2681.37",
+            "Victories": "49",
+            "Draws": "2",
+            "Defeats": "3"
+        },
+        "vbatman2004": {
+            "rating": "2655.75",
+            "Victories": "266",
+            "Draws": "28",
+            "Defeats": "51"
+        },
+        "Jaysik": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "OCChess": {
+            "rating": "2545.50",
+            "Victories": "92",
+            "Draws": "6",
+            "Defeats": "4"
+        },
+        "LANCELOT_06": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Bashirli": {
+            "rating": "2391.72",
+            "Victories": "24",
+            "Draws": "2",
+            "Defeats": "3"
+        },
+        "G0DZILLA": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Sergoy45": {
+            "rating": "2165.74",
+            "Victories": "64",
+            "Draws": "50",
+            "Defeats": "18"
+        },
+        "Hausigel": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "fairchess03": {
+            "rating": "?",
+            "Victories": "10",
+            "Draws": "0",
+            "Defeats": "2"
+        },
+        "curtainsjr": {
+            "rating": "?",
+            "Victories": "2",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Khalilmousavii": {
+            "rating": "2231.26",
+            "Victories": "36",
+            "Draws": "6",
+            "Defeats": "4"
+        },
+        "MahammadMuradli2003": {
+            "rating": "2401.86",
+            "Victories": "75",
+            "Draws": "6",
+            "Defeats": "35"
+        },
+        "Kikijanob": {
+            "rating": "?",
+            "Victories": "2",
+            "Draws": "0",
+            "Defeats": "2"
+        },
+        "EnochNuckyThompson": {
+            "rating": "2382.09",
+            "Victories": "25",
+            "Draws": "11",
+            "Defeats": "8"
+        },
+        "kubalibre420": {
+            "rating": "2363.40",
+            "Victories": "80",
+            "Draws": "26",
+            "Defeats": "43"
+        },
+        "luoxiaoke": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "GABUZYAN_CHESSMOOD": {
+            "rating": "2177.24",
+            "Victories": "59",
+            "Draws": "10",
+            "Defeats": "13"
+        },
+        "BrittaBagels": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "GrandByniolus": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "zonrobla": {
+            "rating": "?",
+            "Victories": "116",
+            "Draws": "31",
+            "Defeats": "17"
+        },
+        "Didici12": {
+            "rating": "2630.74",
+            "Victories": "152",
+            "Draws": "43",
+            "Defeats": "52"
+        },
+        "Lu_Shanglei": {
+            "rating": "?",
+            "Victories": "6",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "fmshawnrl123": {
+            "rating": "2557.45",
+            "Victories": "142",
+            "Draws": "20",
+            "Defeats": "35"
+        },
+        "rasulovvugar": {
+            "rating": "2410.65",
+            "Victories": "67",
+            "Draws": "14",
+            "Defeats": "28"
+        },
+        "Gabi_G": {
+            "rating": "2656.73",
+            "Victories": "186",
+            "Draws": "19",
+            "Defeats": "61"
+        },
+        "posoplyam": {
+            "rating": "2645.01",
+            "Victories": "49",
+            "Draws": "2",
+            "Defeats": "3"
+        },
+        "LuckyGraaf": {
+            "rating": "2371.93",
+            "Victories": "15",
+            "Draws": "6",
+            "Defeats": "3"
+        },
+        "random_guy_69": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Cryptochess": {
+            "rating": "?",
+            "Victories": "30",
+            "Draws": "3",
+            "Defeats": "10"
+        },
+        "apprendre-les-echecs": {
+            "rating": "2663.97",
+            "Victories": "191",
+            "Draws": "18",
+            "Defeats": "23"
+        },
+        "Ragehunter": {
+            "rating": "2561.97",
+            "Victories": "131",
+            "Draws": "21",
+            "Defeats": "52"
+        },
+        "SpaceCrystalis": {
+            "rating": "2393.25",
+            "Victories": "14",
+            "Draws": "1",
+            "Defeats": "0"
+        },
+        "Chessfis": {
+            "rating": "2758.30",
+            "Victories": "261",
+            "Draws": "19",
+            "Defeats": "54"
+        },
+        "littleplotkin": {
+            "rating": "2491.63",
+            "Victories": "698",
+            "Draws": "59",
+            "Defeats": "167"
+        },
+        "ivan124": {
+            "rating": "2332.11",
+            "Victories": "44",
+            "Draws": "7",
+            "Defeats": "26"
+        },
+        "pultis12": {
+            "rating": "2248.12",
+            "Victories": "17",
+            "Draws": "2",
+            "Defeats": "9"
+        },
+        "S2Pac": {
+            "rating": "2447.65",
+            "Victories": "127",
+            "Draws": "38",
+            "Defeats": "3"
+        },
+        "aakash-dalvi": {
+            "rating": "?",
+            "Victories": "2",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "gmmds2694": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Naaas": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "1"
+        },
+        "Gahan-MG": {
+            "rating": "2296.43",
+            "Victories": "118",
+            "Draws": "12",
+            "Defeats": "32"
+        },
+        "chesszxj": {
+            "rating": "2016.44",
+            "Victories": "11",
+            "Draws": "0",
+            "Defeats": "5"
+        },
+        "Platy2": {
+            "rating": "2545.29",
+            "Victories": "22",
+            "Draws": "5",
+            "Defeats": "7"
+        },
+        "Andrey11976": {
+            "rating": "2652.03",
+            "Victories": "565",
+            "Draws": "87",
+            "Defeats": "432"
+        },
+        "JessePinkman": {
+            "rating": "?",
+            "Victories": "4",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "StarkPrime": {
+            "rating": "?",
+            "Victories": "3",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "KarlBallmer": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "ViejoTortuga": {
+            "rating": "?",
+            "Victories": "38",
+            "Draws": "5",
+            "Defeats": "8"
+        },
+        "PeshkaCh": {
+            "rating": "2770.24",
+            "Victories": "2191",
+            "Draws": "374",
+            "Defeats": "1765"
+        },
+        "Panic_Time": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "superchess2002": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Kroko-dill": {
+            "rating": "?",
+            "Victories": "1",
+            "Draws": "0",
+            "Defeats": "2"
+        },
+        "Ch1llax": {
+            "rating": "2247.54",
+            "Victories": "40",
+            "Draws": "20",
+            "Defeats": "20"
+        },
+        "DrGreeverastein": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "ChrolloL": {
+            "rating": "?",
+            "Victories": "11",
+            "Draws": "1",
+            "Defeats": "0"
+        },
+        "Jepetto": {
+            "rating": "?",
+            "Victories": "1",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "VincentKeymer2004": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Feokl1995": {
+            "rating": "2477.76",
+            "Victories": "43",
+            "Draws": "13",
+            "Defeats": "11"
+        },
+        "Shprot86": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "CalmBe4theStorm": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "cutemouse83": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Lunaticxxx": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "justantan": {
+            "rating": "2516.11",
+            "Victories": "107",
+            "Draws": "10",
+            "Defeats": "25"
+        },
+        "Benefactorr": {
+            "rating": "?",
+            "Victories": "4",
+            "Draws": "1",
+            "Defeats": "1"
+        },
+        "Multibrendovyi": {
+            "rating": "?",
+            "Victories": "65",
+            "Draws": "2",
+            "Defeats": "10"
+        },
+        "fear0const": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "franjedrez": {
+            "rating": "2779.24",
+            "Victories": "85",
+            "Draws": "15",
+            "Defeats": "13"
+        },
+        "Yarebore": {
+            "rating": "2557.11",
+            "Victories": "84",
+            "Draws": "8",
+            "Defeats": "0"
+        },
+        "BrandonClarke": {
+            "rating": "2897.94",
+            "Victories": "234",
+            "Draws": "13",
+            "Defeats": "10"
+        },
+        "LSGeneraal": {
+            "rating": "?",
+            "Victories": "2",
+            "Draws": "1",
+            "Defeats": "1"
+        },
+        "doreality": {
+            "rating": "?",
+            "Victories": "2",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "keep_rolling": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Nozdrachev_Vladislav": {
+            "rating": "2084.36",
+            "Victories": "197",
+            "Draws": "20",
+            "Defeats": "22"
+        },
+        "maestroangel": {
+            "rating": "?",
+            "Victories": "12",
+            "Draws": "0",
+            "Defeats": "1"
+        },
+        "Night-King96": {
+            "rating": "?",
+            "Victories": "10",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Fantastic_power06": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "SalgadoChess": {
+            "rating": "1862.71",
+            "Victories": "4",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "enmQ": {
+            "rating": "2607.58",
+            "Victories": "76",
+            "Draws": "9",
+            "Defeats": "6"
+        },
+        "FeegLood": {
+            "rating": "?",
+            "Victories": "47",
+            "Draws": "0",
+            "Defeats": "3"
+        },
+        "Ernst_Gruenfeld": {
+            "rating": "?",
+            "Victories": "2",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Maus7": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Uragan1234": {
+            "rating": "?",
+            "Victories": "3",
+            "Draws": "1",
+            "Defeats": "4"
+        },
+        "MinhJTran": {
+            "rating": "2515.38",
+            "Victories": "109",
+            "Draws": "19",
+            "Defeats": "22"
+        },
+        "Kesha01": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "sumsar42": {
+            "rating": "2866.27",
+            "Victories": "90",
+            "Draws": "6",
+            "Defeats": "5"
+        },
+        "sillyMASTER": {
+            "rating": "2744.60",
+            "Victories": "192",
+            "Draws": "10",
+            "Defeats": "29"
+        },
+        "evg85": {
+            "rating": "?",
+            "Victories": "5",
+            "Draws": "2",
+            "Defeats": "0"
+        },
+        "Vladimirovich9000": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "MikeGScarn": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Tigran-Harutyunyan": {
+            "rating": "2007.79",
+            "Victories": "4",
+            "Draws": "0",
+            "Defeats": "5"
+        },
+        "Nesterovsky": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "jsl": {
+            "rating": "2548.10",
+            "Victories": "166",
+            "Draws": "11",
+            "Defeats": "25"
+        },
+        "RealDavidNavara": {
+            "rating": "2846.89",
+            "Victories": "101",
+            "Draws": "13",
+            "Defeats": "8"
+        },
+        "Durarbayli": {
+            "rating": "2759.33",
+            "Victories": "76",
+            "Draws": "9",
+            "Defeats": "25"
+        },
+        "alfiezero": {
+            "rating": "?",
+            "Victories": "3",
+            "Draws": "5",
+            "Defeats": "4"
+        },
+        "elconceto": {
+            "rating": "2793.65",
+            "Victories": "23",
+            "Draws": "2",
+            "Defeats": "2"
+        },
+        "Bananafisher": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "DmDonCh": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Stratersest": {
+            "rating": "2194.60",
+            "Victories": "11",
+            "Draws": "3",
+            "Defeats": "1"
+        },
+        "RussianBlizzard": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "DrunkGatineau": {
+            "rating": "1907.07",
+            "Victories": "3",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Matlakov": {
+            "rating": "?",
+            "Victories": "5",
+            "Draws": "3",
+            "Defeats": "1"
+        },
+        "charmgame": {
+            "rating": "2750.66",
+            "Victories": "69",
+            "Draws": "6",
+            "Defeats": "9"
+        },
+        "peradetlic83": {
+            "rating": "?",
+            "Victories": "7",
+            "Draws": "5",
+            "Defeats": "2"
+        },
+        "IVK88": {
+            "rating": "?",
+            "Victories": "26",
+            "Draws": "7",
+            "Defeats": "11"
+        },
+        "Gevorg_Harutjunyan": {
+            "rating": "2671.62",
+            "Victories": "504",
+            "Draws": "23",
+            "Defeats": "126"
+        },
+        "LazaroBruzon": {
+            "rating": "2233.74",
+            "Victories": "41",
+            "Draws": "18",
+            "Defeats": "17"
+        },
+        "schoberstein": {
+            "rating": "?",
+            "Victories": "1",
+            "Draws": "1",
+            "Defeats": "0"
+        },
+        "vistagausta": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "gmkantor": {
+            "rating": "?",
+            "Victories": "3",
+            "Draws": "10",
+            "Defeats": "8"
+        },
+        "AVS2000": {
+            "rating": "2394.08",
+            "Victories": "35",
+            "Draws": "11",
+            "Defeats": "19"
+        },
+        "Pon4ik2006": {
+            "rating": "2191.24",
+            "Victories": "6",
+            "Draws": "2",
+            "Defeats": "3"
+        },
+        "gmmoranda": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Messi10barca": {
+            "rating": "2142.59",
+            "Victories": "4",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "EleKtRoMaGnIt": {
+            "rating": "?",
+            "Victories": "3",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Lukianoo": {
+            "rating": "?",
+            "Victories": "8",
+            "Draws": "0",
+            "Defeats": "2"
+        },
+        "KuzubovY": {
+            "rating": "1838.50",
+            "Victories": "23",
+            "Draws": "3",
+            "Defeats": "6"
+        },
+        "mindSet2020": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "ProfesoreSergio": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "C9C9C9C9C9": {
+            "rating": "?",
+            "Victories": "2",
+            "Draws": "0",
+            "Defeats": "4"
+        },
+        "Alexsur81": {
+            "rating": "2236.52",
+            "Victories": "7",
+            "Draws": "1",
+            "Defeats": "1"
+        },
+        "EnglishLongbow": {
+            "rating": "2677.00",
+            "Victories": "43",
+            "Draws": "11",
+            "Defeats": "8"
+        },
+        "Sesto_Vedic": {
+            "rating": "2450.38",
+            "Victories": "9",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "DanielHausrath1": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Violet_Pride": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "The_Chess_Experience": {
+            "rating": "2796.87",
+            "Victories": "96",
+            "Draws": "8",
+            "Defeats": "19"
+        },
+        "Preliator_Victrix": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Dynamikus": {
+            "rating": "2594.38",
+            "Victories": "317",
+            "Draws": "66",
+            "Defeats": "100"
+        },
+        "Bakayoyo": {
+            "rating": "?",
+            "Victories": "23",
+            "Draws": "7",
+            "Defeats": "1"
+        },
+        "German-2826": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "dark-knight01": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "NoTailNoFail": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "kenkons": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "avantage_ru": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "medela2019": {
+            "rating": "2347.66",
+            "Victories": "10",
+            "Draws": "7",
+            "Defeats": "6"
+        },
+        "Operator29": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "DiaryTraining": {
+            "rating": "2563.98",
+            "Victories": "13",
+            "Draws": "1",
+            "Defeats": "0"
+        },
+        "eabr78": {
+            "rating": "2570.11",
+            "Victories": "917",
+            "Draws": "90",
+            "Defeats": "111"
+        },
+        "doreality1991": {
+            "rating": "?",
+            "Victories": "1",
+            "Draws": "1",
+            "Defeats": "0"
+        },
+        "Chewbacca18": {
+            "rating": "?",
+            "Victories": "52",
+            "Draws": "2",
+            "Defeats": "1"
+        },
+        "Revisor1977": {
+            "rating": "?",
+            "Victories": "2",
+            "Draws": "2",
+            "Defeats": "2"
+        },
+        "Davjan": {
+            "rating": "?",
+            "Victories": "154",
+            "Draws": "106",
+            "Defeats": "23"
+        },
+        "AndrewHoma": {
+            "rating": "2267.96",
+            "Victories": "113",
+            "Draws": "22",
+            "Defeats": "30"
+        },
+        "gmluke": {
+            "rating": "?",
+            "Victories": "1",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "tinkleking": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Baki83": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "NTDVAN": {
+            "rating": "2248.68",
+            "Victories": "10",
+            "Draws": "3",
+            "Defeats": "2"
+        },
+        "N-Chadaev": {
+            "rating": "?",
+            "Victories": "19",
+            "Draws": "2",
+            "Defeats": "1"
+        },
+        "FakeBruceLee": {
+            "rating": "2459.66",
+            "Victories": "262",
+            "Draws": "62",
+            "Defeats": "73"
+        },
+        "Kacparov": {
+            "rating": "2532.55",
+            "Victories": "11",
+            "Draws": "2",
+            "Defeats": "0"
+        },
+        "DarkAlekhine": {
+            "rating": "2355.00",
+            "Victories": "86",
+            "Draws": "11",
+            "Defeats": "60"
+        },
+        "GrigorGrigorov": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "stumpspice": {
+            "rating": "2386.78",
+            "Victories": "13",
+            "Draws": "8",
+            "Defeats": "12"
+        },
+        "ice2breaker": {
+            "rating": "?",
+            "Victories": "1",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "TilChess": {
+            "rating": "2237.27",
+            "Victories": "9",
+            "Draws": "0",
+            "Defeats": "2"
+        },
+        "Triumph-of-Diversity": {
+            "rating": "2538.45",
+            "Victories": "74",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Zaffelare": {
+            "rating": "2626.36",
+            "Victories": "49",
+            "Draws": "1",
+            "Defeats": "1"
+        },
+        "PinePiper": {
+            "rating": "2543.82",
+            "Victories": "158",
+            "Draws": "18",
+            "Defeats": "20"
+        },
+        "Showofff": {
+            "rating": "?",
+            "Victories": "1",
+            "Draws": "3",
+            "Defeats": "0"
+        },
+        "IGMGataKamsky": {
+            "rating": "2543.07",
+            "Victories": "26",
+            "Draws": "5",
+            "Defeats": "3"
+        },
+        "Goodgoodchess": {
+            "rating": "2133.58",
+            "Victories": "12",
+            "Draws": "4",
+            "Defeats": "6"
+        },
+        "Lngps": {
+            "rating": "2201.96",
+            "Victories": "28",
+            "Draws": "2",
+            "Defeats": "0"
+        },
+        "Broetchen": {
+            "rating": "2604.72",
+            "Victories": "86",
+            "Draws": "8",
+            "Defeats": "20"
+        },
+        "TAAnderson": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "CumShareVary": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "2",
+            "Defeats": "1"
+        },
+        "Nakigraw": {
+            "rating": "?",
+            "Victories": "6",
+            "Draws": "2",
+            "Defeats": "3"
+        },
+        "L04d1ng": {
+            "rating": "2498.85",
+            "Victories": "52",
+            "Draws": "3",
+            "Defeats": "5"
+        },
+        "dhoine98": {
+            "rating": "1567.98",
+            "Victories": "7",
+            "Draws": "2",
+            "Defeats": "1"
+        },
+        "Chesskrr": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "sber1": {
+            "rating": "2423.85",
+            "Victories": "4",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "dont_blunder": {
+            "rating": "?",
+            "Victories": "7",
+            "Draws": "2",
+            "Defeats": "1"
+        },
+        "SpeedRunTimeLetsGo": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Crest64": {
+            "rating": "?",
+            "Victories": "37",
+            "Draws": "9",
+            "Defeats": "6"
+        },
+        "blank37": {
+            "rating": "2612.56",
+            "Victories": "429",
+            "Draws": "32",
+            "Defeats": "56"
+        },
+        "forshmakoff": {
+            "rating": "2745.31",
+            "Victories": "113",
+            "Draws": "16",
+            "Defeats": "17"
+        },
+        "Carobee": {
+            "rating": "2335.76",
+            "Victories": "43",
+            "Draws": "0",
+            "Defeats": "3"
+        },
+        "DurvChamp": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "DoktorMatt": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Mamikon_Gharibyan": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Brigello": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Dr-CRO": {
+            "rating": "?",
+            "Victories": "24",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "clinclincaja": {
+            "rating": "2064.19",
+            "Victories": "3",
+            "Draws": "3",
+            "Defeats": "4"
+        },
+        "Torta69": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "AOrlovPetersburg": {
+            "rating": "1544.34",
+            "Victories": "1",
+            "Draws": "0",
+            "Defeats": "1"
+        },
+        "Enialios": {
+            "rating": "2488.39",
+            "Victories": "498",
+            "Draws": "45",
+            "Defeats": "55"
+        },
+        "tatasaha": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "KajaVach": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Garoy": {
+            "rating": "2669.95",
+            "Victories": "22",
+            "Draws": "1",
+            "Defeats": "3"
+        },
+        "Taliensin": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "SaraciNderim": {
+            "rating": "2399.64",
+            "Victories": "19",
+            "Draws": "4",
+            "Defeats": "1"
+        },
+        "Realboy": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Opteron85": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "lestri": {
+            "rating": "2020.16",
+            "Victories": "4",
+            "Draws": "1",
+            "Defeats": "2"
+        },
+        "PierrotDeCastelnau": {
+            "rating": "2354.39",
+            "Victories": "78",
+            "Draws": "5",
+            "Defeats": "17"
+        },
+        "betheking": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Anuar_Is": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "1",
+            "Defeats": "1"
+        },
+        "Artoo": {
+            "rating": "2310.33",
+            "Victories": "71",
+            "Draws": "0",
+            "Defeats": "9"
+        },
+        "forgiants": {
+            "rating": "?",
+            "Victories": "3",
+            "Draws": "6",
+            "Defeats": "1"
+        },
+        "XuYL_1a": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "IrrelevantAgain": {
+            "rating": "2764.81",
+            "Victories": "30",
+            "Draws": "5",
+            "Defeats": "5"
+        },
+        "June31": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "JackHenry": {
+            "rating": "?",
+            "Victories": "29",
+            "Draws": "6",
+            "Defeats": "12"
+        },
+        "TheDirector": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "SpiderMoves": {
+            "rating": "2310.99",
+            "Victories": "24",
+            "Draws": "2",
+            "Defeats": "1"
+        },
+        "xamax2000": {
+            "rating": "2552.16",
+            "Victories": "52",
+            "Draws": "4",
+            "Defeats": "8"
+        },
+        "Drvitman": {
+            "rating": "2950.36",
+            "Victories": "324",
+            "Draws": "155",
+            "Defeats": "23"
+        },
+        "GutovAndrey": {
+            "rating": "2812.41",
+            "Victories": "561",
+            "Draws": "24",
+            "Defeats": "9"
+        },
+        "ApesTutoring": {
+            "rating": "2772.99",
+            "Victories": "171",
+            "Draws": "34",
+            "Defeats": "35"
+        },
+        "papasi": {
+            "rating": "2710.51",
+            "Victories": "572",
+            "Draws": "60",
+            "Defeats": "168"
+        },
+        "M-DeVerdier": {
+            "rating": "2698.85",
+            "Victories": "43",
+            "Draws": "10",
+            "Defeats": "10"
+        },
+        "Schachtrainer-Schuh": {
+            "rating": "2745.77",
+            "Victories": "370",
+            "Draws": "31",
+            "Defeats": "59"
+        },
+        "DrBergerBerger": {
+            "rating": "2692.53",
+            "Victories": "205",
+            "Draws": "43",
+            "Defeats": "58"
+        },
+        "kirill_kopyonkin": {
+            "rating": "2685.98",
+            "Victories": "259",
+            "Draws": "59",
+            "Defeats": "149"
+        },
+        "Think_Fast_Move_Fast": {
+            "rating": "2745.17",
+            "Victories": "93",
+            "Draws": "7",
+            "Defeats": "22"
+        },
+        "VadimCernov": {
+            "rating": "2677.22",
+            "Victories": "687",
+            "Draws": "27",
+            "Defeats": "42"
+        },
+        "Dire_Promise": {
+            "rating": "2734.17",
+            "Victories": "159",
+            "Draws": "10",
+            "Defeats": "16"
+        },
+        "blooddhund": {
+            "rating": "2672.95",
+            "Victories": "24",
+            "Draws": "3",
+            "Defeats": "14"
+        },
+        "Prettyfishy": {
+            "rating": "2728.97",
+            "Victories": "233",
+            "Draws": "76",
+            "Defeats": "122"
+        },
+        "ImIsmaelKarim": {
+            "rating": "2661.41",
+            "Victories": "1012",
+            "Draws": "58",
+            "Defeats": "194"
+        },
+        "DrunkViper": {
+            "rating": "2727.53",
+            "Victories": "1899",
+            "Draws": "54",
+            "Defeats": "111"
+        },
+        "Chess_Training_2021": {
+            "rating": "2658.05",
+            "Victories": "58",
+            "Draws": "16",
+            "Defeats": "23"
+        },
+        "TrollOni": {
+            "rating": "2722.53",
+            "Victories": "128",
+            "Draws": "20",
+            "Defeats": "25"
+        },
+        "ModernBlackDeath": {
+            "rating": "2639.05",
+            "Victories": "66",
+            "Draws": "12",
+            "Defeats": "14"
+        },
+        "iakov98": {
+            "rating": "2720.96",
+            "Victories": "393",
+            "Draws": "65",
+            "Defeats": "63"
+        },
+        "chessed70": {
+            "rating": "2639.79",
+            "Victories": "179",
+            "Draws": "41",
+            "Defeats": "95"
+        },
+        "volleybal_Fox": {
+            "rating": "2719.47",
+            "Victories": "31",
+            "Draws": "4",
+            "Defeats": "10"
+        },
+        "iCe_eNerGyTeaM": {
+            "rating": "2636.69",
+            "Victories": "560",
+            "Draws": "128",
+            "Defeats": "112"
+        },
+        "Babbelbox": {
+            "rating": "2709.27",
+            "Victories": "81",
+            "Draws": "6",
+            "Defeats": "14"
+        },
+        "Calazans16_CMPA": {
+            "rating": "2635.58",
+            "Victories": "156",
+            "Draws": "18",
+            "Defeats": "23"
+        },
+        "Brrrrrrrr": {
+            "rating": "2688.09",
+            "Victories": "1036",
+            "Draws": "111",
+            "Defeats": "73"
+        },
+        "artem-us": {
+            "rating": "2633.89",
+            "Victories": "1885",
+            "Draws": "155",
+            "Defeats": "1126"
+        },
+        "Dr_Pinchito": {
+            "rating": "2681.31",
+            "Victories": "76",
+            "Draws": "18",
+            "Defeats": "30"
+        },
+        "BughouseKnight": {
+            "rating": "2631.23",
+            "Victories": "346",
+            "Draws": "57",
+            "Defeats": "197"
+        },
+        "Ernie_McCracken": {
+            "rating": "2677.97",
+            "Victories": "208",
+            "Draws": "44",
+            "Defeats": "102"
+        },
+        "Harasskin": {
+            "rating": "2621.74",
+            "Victories": "1076",
+            "Draws": "86",
+            "Defeats": "114"
+        },
+        "Aborigen100500": {
+            "rating": "2677.84",
+            "Victories": "1412",
+            "Draws": "156",
+            "Defeats": "251"
+        },
+        "FallingInLoveSucks": {
+            "rating": "2621.70",
+            "Victories": "68",
+            "Draws": "16",
+            "Defeats": "21"
+        },
+        "achuvettan": {
+            "rating": "2675.49",
+            "Victories": "54",
+            "Draws": "14",
+            "Defeats": "26"
+        },
+        "Kaba2020": {
+            "rating": "2619.10",
+            "Victories": "122",
+            "Draws": "16",
+            "Defeats": "47"
+        },
+        "Saqochess": {
+            "rating": "2673.56",
+            "Victories": "1073",
+            "Draws": "131",
+            "Defeats": "232"
+        },
+        "KDS9": {
+            "rating": "2614.07",
+            "Victories": "588",
+            "Draws": "68",
+            "Defeats": "322"
+        },
+        "Schacher101": {
+            "rating": "2669.20",
+            "Victories": "50",
+            "Draws": "4",
+            "Defeats": "8"
+        },
+        "Coach_Vice": {
+            "rating": "2610.57",
+            "Victories": "33",
+            "Draws": "1",
+            "Defeats": "14"
+        },
+        "SuperConfinado": {
+            "rating": "2665.16",
+            "Victories": "312",
+            "Draws": "74",
+            "Defeats": "114"
+        },
+        "kc6": {
+            "rating": "2609.35",
+            "Victories": "1831",
+            "Draws": "69",
+            "Defeats": "136"
+        },
+        "testviking": {
+            "rating": "2664.61",
+            "Victories": "482",
+            "Draws": "28",
+            "Defeats": "44"
+        },
+        "TheBigGreek": {
+            "rating": "2609.16",
+            "Victories": "1161",
+            "Draws": "144",
+            "Defeats": "412"
+        },
+        "adrianyulo": {
+            "rating": "2663.87",
+            "Victories": "224",
+            "Draws": "29",
+            "Defeats": "86"
+        },
+        "MassterofMayhem": {
+            "rating": "2607.40",
+            "Victories": "2936",
+            "Draws": "382",
+            "Defeats": "657"
+        },
+        "ecolefrancaise": {
+            "rating": "2656.74",
+            "Victories": "218",
+            "Draws": "37",
+            "Defeats": "91"
+        },
+        "Suffkopf97": {
+            "rating": "2606.27",
+            "Victories": "162",
+            "Draws": "15",
+            "Defeats": "80"
+        },
+        "jposthuma": {
+            "rating": "2656.48",
+            "Victories": "1887",
+            "Draws": "146",
+            "Defeats": "331"
+        },
+        "fanNHL": {
+            "rating": "2606.47",
+            "Victories": "179",
+            "Draws": "47",
+            "Defeats": "132"
+        },
+        "InfernPlanetCorot-7b": {
+            "rating": "2595.28",
+            "Victories": "21",
+            "Draws": "8",
+            "Defeats": "17"
+        },
+        "Knights4base": {
+            "rating": "2655.28",
+            "Victories": "537",
+            "Draws": "57",
+            "Defeats": "144"
+        },
+        "Maruhum": {
+            "rating": "2585.15",
+            "Victories": "142",
+            "Draws": "15",
+            "Defeats": "60"
+        },
+        "mbchessmaster": {
+            "rating": "2584.58",
+            "Victories": "176",
+            "Draws": "22",
+            "Defeats": "59"
+        },
+        "flaggernoob": {
+            "rating": "2653.26",
+            "Victories": "117",
+            "Draws": "20",
+            "Defeats": "45"
+        },
+        "dragonwelb": {
+            "rating": "2579.06",
+            "Victories": "622",
+            "Draws": "16",
+            "Defeats": "46"
+        },
+        "hitsuji": {
+            "rating": "2569.56",
+            "Victories": "1049",
+            "Draws": "230",
+            "Defeats": "557"
+        },
+        "Fight-chess": {
+            "rating": "2651.59",
+            "Victories": "84",
+            "Draws": "17",
+            "Defeats": "31"
+        },
+        "AMR25": {
+            "rating": "2564.16",
+            "Victories": "344",
+            "Draws": "67",
+            "Defeats": "147"
+        },
+        "EricRosen": {
+            "rating": "2648.42",
+            "Victories": "1422",
+            "Draws": "47",
+            "Defeats": "163"
+        },
+        "Ute-Manfred": {
+            "rating": "2563.05",
+            "Victories": "31",
+            "Draws": "3",
+            "Defeats": "6"
+        },
+        "Athlitis_me_Deltio": {
+            "rating": "2647.21",
+            "Victories": "55",
+            "Draws": "7",
+            "Defeats": "17"
+        },
+        "pzpzzz": {
+            "rating": "2646.23",
+            "Victories": "206",
+            "Draws": "31",
+            "Defeats": "92"
+        },
+        "Welcome_to_Flagistan": {
+            "rating": "2644.61",
+            "Victories": "111",
+            "Draws": "25",
+            "Defeats": "47"
+        },
+        "lojzek18": {
+            "rating": "2642.85",
+            "Victories": "109",
+            "Draws": "4",
+            "Defeats": "26"
+        },
+        "self_service": {
+            "rating": "2642.07",
+            "Victories": "3670",
+            "Draws": "377",
+            "Defeats": "1120"
+        },
+        "uglinskih1967": {
+            "rating": "2642.45",
+            "Victories": "2070",
+            "Draws": "105",
+            "Defeats": "344"
+        },
+        "Maxwell_The_Great": {
+            "rating": "2641.09",
+            "Victories": "59",
+            "Draws": "12",
+            "Defeats": "42"
+        },
+        "majid2000": {
+            "rating": "2640.82",
+            "Victories": "29",
+            "Draws": "3",
+            "Defeats": "5"
+        },
+        "Sheeshi123": {
+            "rating": "2639.81",
+            "Victories": "458",
+            "Draws": "176",
+            "Defeats": "252"
+        },
+        "Mariano_Nelson_II": {
+            "rating": "2638.60",
+            "Victories": "77",
+            "Draws": "18",
+            "Defeats": "24"
+        },
+        "JohnScott": {
+            "rating": "2638.15",
+            "Victories": "584",
+            "Draws": "105",
+            "Defeats": "275"
+        },
+        "Dolphin_2010": {
+            "rating": "2637.34",
+            "Victories": "2576",
+            "Draws": "210",
+            "Defeats": "822"
+        },
+        "IntelligentLion": {
+            "rating": "2636.99",
+            "Victories": "398",
+            "Draws": "69",
+            "Defeats": "267"
+        },
+        "NetworkZero": {
+            "rating": "2635.15",
+            "Victories": "149",
+            "Draws": "12",
+            "Defeats": "18"
+        },
+        "spike_nitro": {
+            "rating": "2635.66",
+            "Victories": "599",
+            "Draws": "102",
+            "Defeats": "282"
+        },
+        "Just__kidding": {
+            "rating": "2633.61",
+            "Victories": "168",
+            "Draws": "4",
+            "Defeats": "23"
+        },
+        "leopslr": {
+            "rating": "2633.71",
+            "Victories": "124",
+            "Draws": "11",
+            "Defeats": "32"
+        },
+        "Hammurapi65": {
+            "rating": "2632.15",
+            "Victories": "1688",
+            "Draws": "359",
+            "Defeats": "927"
+        },
+        "ihmelnyk": {
+            "rating": "2632.02",
+            "Victories": "115",
+            "Draws": "16",
+            "Defeats": "32"
+        },
+        "CuzImBetter": {
+            "rating": "2628.11",
+            "Victories": "880",
+            "Draws": "103",
+            "Defeats": "383"
+        },
+        "Prokofiev": {
+            "rating": "2622.37",
+            "Victories": "540",
+            "Draws": "53",
+            "Defeats": "151"
+        },
+        "ThanhNguyen": {
+            "rating": "2621.61",
+            "Victories": "765",
+            "Draws": "29",
+            "Defeats": "19"
+        },
+        "thunder04": {
+            "rating": "2620.08",
+            "Victories": "277",
+            "Draws": "45",
+            "Defeats": "128"
+        },
+        "raptik": {
+            "rating": "2620.38",
+            "Victories": "117",
+            "Draws": "7",
+            "Defeats": "24"
+        },
+        "killerbean10": {
+            "rating": "2618.39",
+            "Victories": "483",
+            "Draws": "65",
+            "Defeats": "260"
+        },
+        "TayTayBis1": {
+            "rating": "2617.84",
+            "Victories": "220",
+            "Draws": "30",
+            "Defeats": "75"
+        },
+        "invencible99": {
+            "rating": "2616.33",
+            "Victories": "156",
+            "Draws": "24",
+            "Defeats": "93"
+        },
+        "AhnHongjin": {
+            "rating": "2616.85",
+            "Victories": "27",
+            "Draws": "3",
+            "Defeats": "8"
+        },
+        "IMAndrasToth": {
+            "rating": "2615.23",
+            "Victories": "853",
+            "Draws": "90",
+            "Defeats": "231"
+        },
+        "Maxwhyter_68": {
+            "rating": "2615.54",
+            "Victories": "123",
+            "Draws": "6",
+            "Defeats": "37"
+        },
+        "mac0504": {
+            "rating": "2615.48",
+            "Victories": "92",
+            "Draws": "11",
+            "Defeats": "37"
+        },
+        "daubon": {
+            "rating": "2613.00",
+            "Victories": "135",
+            "Draws": "24",
+            "Defeats": "81"
+        },
+        "Abnormals": {
+            "rating": "2612.15",
+            "Victories": "31",
+            "Draws": "7",
+            "Defeats": "11"
+        },
+        "lucumpe04": {
+            "rating": "2611.36",
+            "Victories": "156",
+            "Draws": "33",
+            "Defeats": "76"
+        },
+        "bobyfisher2003": {
+            "rating": "2611.02",
+            "Victories": "86",
+            "Draws": "19",
+            "Defeats": "33"
+        },
+        "Al_Shima": {
+            "rating": "2611.29",
+            "Victories": "418",
+            "Draws": "60",
+            "Defeats": "120"
+        },
+        "dolynachess": {
+            "rating": "2609.59",
+            "Victories": "299",
+            "Draws": "23",
+            "Defeats": "65"
+        },
+        "Nebula64": {
+            "rating": "2609.82",
+            "Victories": "245",
+            "Draws": "43",
+            "Defeats": "118"
+        },
+        "MarkosianDavid": {
+            "rating": "2607.33",
+            "Victories": "441",
+            "Draws": "39",
+            "Defeats": "78"
+        },
+        "Vadim_Yumakhuzhin": {
+            "rating": "2607.56",
+            "Victories": "63",
+            "Draws": "9",
+            "Defeats": "8"
+        },
+        "JohnRedmond": {
+            "rating": "2607.34",
+            "Victories": "42",
+            "Draws": "8",
+            "Defeats": "13"
+        },
+        "Robert_James123": {
+            "rating": "2607.17",
+            "Victories": "82",
+            "Draws": "20",
+            "Defeats": "18"
+        },
+        "Hackibacki": {
+            "rating": "2605.63",
+            "Victories": "162",
+            "Draws": "33",
+            "Defeats": "61"
+        },
+        "Tania422R": {
+            "rating": "2605.84",
+            "Victories": "1081",
+            "Draws": "68",
+            "Defeats": "172"
+        },
+        "trvadim71": {
+            "rating": "2604.30",
+            "Victories": "31",
+            "Draws": "6",
+            "Defeats": "7"
+        },
+        "FredtheCrusher": {
+            "rating": "2603.96",
+            "Victories": "295",
+            "Draws": "36",
+            "Defeats": "146"
+        },
+        "nakamoroo2021": {
+            "rating": "2603.91",
+            "Victories": "256",
+            "Draws": "7",
+            "Defeats": "53"
+        },
+        "takes_takes_and_what": {
+            "rating": "2603.96",
+            "Victories": "111",
+            "Draws": "20",
+            "Defeats": "19"
+        },
+        "ToliaChess": {
+            "rating": "2603.26",
+            "Victories": "84",
+            "Draws": "2",
+            "Defeats": "2"
+        },
+        "Gambit2Mate": {
+            "rating": "2602.35",
+            "Victories": "222",
+            "Draws": "31",
+            "Defeats": "70"
+        },
+        "Julia_19": {
+            "rating": "2601.24",
+            "Victories": "23",
+            "Draws": "5",
+            "Defeats": "8"
+        },
+        "Brain789": {
+            "rating": "2601.27",
+            "Victories": "29",
+            "Draws": "15",
+            "Defeats": "23"
+        },
+        "ayvalik10": {
+            "rating": "2601.14",
+            "Victories": "524",
+            "Draws": "96",
+            "Defeats": "211"
+        },
+        "Lewton": {
+            "rating": "2600.49",
+            "Victories": "580",
+            "Draws": "150",
+            "Defeats": "88"
+        },
+        "OjaiJoao": {
+            "rating": "2600.60",
+            "Victories": "1265",
+            "Draws": "55",
+            "Defeats": "110"
+        },
+        "The_Bad_Player": {
+            "rating": "2600.21",
+            "Victories": "74",
+            "Draws": "9",
+            "Defeats": "29"
+        },
+        "Dvoretski_son": {
+            "rating": "2598.90",
+            "Victories": "390",
+            "Draws": "54",
+            "Defeats": "298"
+        },
+        "McLuhan": {
+            "rating": "2597.43",
+            "Victories": "88",
+            "Draws": "8",
+            "Defeats": "35"
+        },
+        "Paavo87": {
+            "rating": "2597.62",
+            "Victories": "174",
+            "Draws": "27",
+            "Defeats": "47"
+        },
+        "Delphin999": {
+            "rating": "2597.99",
+            "Victories": "86",
+            "Draws": "16",
+            "Defeats": "43"
+        },
+        "marxistpawns": {
+            "rating": "2594.47",
+            "Victories": "44",
+            "Draws": "2",
+            "Defeats": "12"
+        },
+        "Hyo_Lee": {
+            "rating": "2594.62",
+            "Victories": "33",
+            "Draws": "8",
+            "Defeats": "10"
+        },
+        "Horobetz": {
+            "rating": "2594.83",
+            "Victories": "1420",
+            "Draws": "103",
+            "Defeats": "330"
+        },
+        "Jotheboss": {
+            "rating": "2593.22",
+            "Victories": "849",
+            "Draws": "116",
+            "Defeats": "373"
+        },
+        "FallschirmSpringer": {
+            "rating": "2593.72",
+            "Victories": "232",
+            "Draws": "39",
+            "Defeats": "54"
+        },
+        "Djager97": {
+            "rating": "2592.06",
+            "Victories": "66",
+            "Draws": "11",
+            "Defeats": "23"
+        },
+        "ShcufNaiRolf": {
+            "rating": "2592.39",
+            "Victories": "213",
+            "Draws": "28",
+            "Defeats": "91"
+        },
+        "Guy_West": {
+            "rating": "2591.27",
+            "Victories": "443",
+            "Draws": "23",
+            "Defeats": "56"
+        },
+        "OpeningConnoiseur": {
+            "rating": "2590.80",
+            "Victories": "35",
+            "Draws": "4",
+            "Defeats": "0"
+        },
+        "BeTtA2004": {
+            "rating": "2587.87",
+            "Victories": "575",
+            "Draws": "70",
+            "Defeats": "154"
+        },
+        "QuesttoGM": {
+            "rating": "2586.18",
+            "Victories": "117",
+            "Draws": "11",
+            "Defeats": "43"
+        },
+        "MrAble": {
+            "rating": "2585.87",
+            "Victories": "451",
+            "Draws": "117",
+            "Defeats": "254"
+        },
+        "RayHolt": {
+            "rating": "2584.39",
+            "Victories": "79",
+            "Draws": "7",
+            "Defeats": "23"
+        },
+        "Clovis1088": {
+            "rating": "2584.21",
+            "Victories": "86",
+            "Draws": "3",
+            "Defeats": "30"
+        },
+        "Oplarex": {
+            "rating": "2584.87",
+            "Victories": "133",
+            "Draws": "17",
+            "Defeats": "42"
+        },
+        "giaphuc2009": {
+            "rating": "2583.19",
+            "Victories": "119",
+            "Draws": "26",
+            "Defeats": "57"
+        },
+        "Maltinho": {
+            "rating": "2583.30",
+            "Victories": "220",
+            "Draws": "21",
+            "Defeats": "48"
+        },
+        "Orlov_Oleg": {
+            "rating": "2582.22",
+            "Victories": "594",
+            "Draws": "47",
+            "Defeats": "176"
+        },
+        "Superfm1": {
+            "rating": "2582.25",
+            "Victories": "1143",
+            "Draws": "102",
+            "Defeats": "155"
+        },
+        "JeansusChrist": {
+            "rating": "2582.90",
+            "Victories": "158",
+            "Draws": "26",
+            "Defeats": "61"
+        },
+        "Serparov": {
+            "rating": "2582.37",
+            "Victories": "53",
+            "Draws": "9",
+            "Defeats": "36"
+        },
+        "gm3t": {
+            "rating": "2582.56",
+            "Victories": "304",
+            "Draws": "17",
+            "Defeats": "34"
+        },
+        "Zombieblitz": {
+            "rating": "2581.81",
+            "Victories": "524",
+            "Draws": "94",
+            "Defeats": "295"
+        },
+        "harvardrocks": {
+            "rating": "2581.70",
+            "Victories": "143",
+            "Draws": "23",
+            "Defeats": "52"
+        },
+        "jimmy0613": {
+            "rating": "2581.20",
+            "Victories": "236",
+            "Draws": "60",
+            "Defeats": "209"
+        },
+        "FleddyVanHelgie": {
+            "rating": "2580.47",
+            "Victories": "223",
+            "Draws": "25",
+            "Defeats": "40"
+        },
+        "IsogonalConjugate314": {
+            "rating": "2580.60",
+            "Victories": "23",
+            "Draws": "5",
+            "Defeats": "4"
+        },
+        "bosniano": {
+            "rating": "2580.42",
+            "Victories": "217",
+            "Draws": "45",
+            "Defeats": "91"
+        },
+        "Kaeptn_Peng": {
+            "rating": "2579.83",
+            "Victories": "229",
+            "Draws": "19",
+            "Defeats": "115"
+        },
+        "grandmastergauri": {
+            "rating": "2579.83",
+            "Victories": "1525",
+            "Draws": "60",
+            "Defeats": "167"
+        },
+        "Martin2901": {
+            "rating": "2578.71",
+            "Victories": "40",
+            "Draws": "3",
+            "Defeats": "10"
+        },
+        "samidescalona2002": {
+            "rating": "2577.31",
+            "Victories": "203",
+            "Draws": "29",
+            "Defeats": "54"
+        },
+        "Zhalmakhanov_R": {
+            "rating": "2576.07",
+            "Victories": "80",
+            "Draws": "27",
+            "Defeats": "23"
+        },
+        "Adammaltese": {
+            "rating": "2576.98",
+            "Victories": "120",
+            "Draws": "79",
+            "Defeats": "104"
+        },
+        "PeterBolwerk": {
+            "rating": "2575.68",
+            "Victories": "451",
+            "Draws": "52",
+            "Defeats": "227"
+        },
+        "daddystrength": {
+            "rating": "2574.24",
+            "Victories": "3207",
+            "Draws": "426",
+            "Defeats": "1141"
+        },
+        "ortizfrancisco": {
+            "rating": "2573.61",
+            "Victories": "79",
+            "Draws": "8",
+            "Defeats": "38"
+        },
+        "Maximus8888": {
+            "rating": "2573.01",
+            "Victories": "966",
+            "Draws": "107",
+            "Defeats": "384"
+        },
+        "EmmanuelJimenez": {
+            "rating": "2572.90",
+            "Victories": "393",
+            "Draws": "143",
+            "Defeats": "190"
+        },
+        "carlnotcfo": {
+            "rating": "2572.67",
+            "Victories": "156",
+            "Draws": "40",
+            "Defeats": "80"
+        },
+        "Ichatdll": {
+            "rating": "2571.19",
+            "Victories": "478",
+            "Draws": "32",
+            "Defeats": "49"
+        },
+        "Radek_S": {
+            "rating": "2569.03",
+            "Victories": "161",
+            "Draws": "24",
+            "Defeats": "63"
+        },
+        "Prosvirnov_Sergei": {
+            "rating": "2569.11",
+            "Victories": "79",
+            "Draws": "7",
+            "Defeats": "16"
+        },
+        "c4ever": {
+            "rating": "2569.07",
+            "Victories": "601",
+            "Draws": "81",
+            "Defeats": "323"
+        },
+        "Orion73": {
+            "rating": "2568.34",
+            "Victories": "1219",
+            "Draws": "131",
+            "Defeats": "172"
+        },
+        "hasta-la-victoria": {
+            "rating": "2568.07",
+            "Victories": "35",
+            "Draws": "7",
+            "Defeats": "5"
+        },
+        "easypiecetaker04": {
+            "rating": "2568.95",
+            "Victories": "39",
+            "Draws": "11",
+            "Defeats": "20"
+        },
+        "stachista": {
+            "rating": "2567.23",
+            "Victories": "164",
+            "Draws": "10",
+            "Defeats": "18"
+        },
+        "TCF_Namelecc": {
+            "rating": "2566.34",
+            "Victories": "94",
+            "Draws": "10",
+            "Defeats": "34"
+        },
+        "jgyj123": {
+            "rating": "2566.76",
+            "Victories": "247",
+            "Draws": "23",
+            "Defeats": "97"
+        },
+        "JosueChess-Youtube": {
+            "rating": "2566.27",
+            "Victories": "135",
+            "Draws": "35",
+            "Defeats": "60"
+        },
+        "Sashahard": {
+            "rating": "2566.83",
+            "Victories": "250",
+            "Draws": "38",
+            "Defeats": "95"
+        },
+        "Capamalabon": {
+            "rating": "2565.03",
+            "Victories": "229",
+            "Draws": "42",
+            "Defeats": "141"
+        },
+        "cuchuoi2": {
+            "rating": "2565.18",
+            "Victories": "97",
+            "Draws": "25",
+            "Defeats": "71"
+        },
+        "PerpetuumChessPlayer": {
+            "rating": "2564.55",
+            "Victories": "256",
+            "Draws": "28",
+            "Defeats": "124"
+        },
+        "Asian-Eagle": {
+            "rating": "2564.84",
+            "Victories": "84",
+            "Draws": "16",
+            "Defeats": "69"
+        },
+        "TamikCh2007": {
+            "rating": "2563.75",
+            "Victories": "161",
+            "Draws": "8",
+            "Defeats": "20"
+        },
+        "bobbythekingofchess": {
+            "rating": "2562.33",
+            "Victories": "308",
+            "Draws": "54",
+            "Defeats": "156"
+        },
+        "LexisNexis": {
+            "rating": "2562.16",
+            "Victories": "618",
+            "Draws": "60",
+            "Defeats": "175"
+        },
+        "Sobzahmati": {
+            "rating": "2562.10",
+            "Victories": "127",
+            "Draws": "12",
+            "Defeats": "43"
+        },
+        "Center_Side": {
+            "rating": "2561.06",
+            "Victories": "160",
+            "Draws": "23",
+            "Defeats": "93"
+        },
+        "MasterSonnevanck": {
+            "rating": "2561.92",
+            "Victories": "114",
+            "Draws": "15",
+            "Defeats": "12"
+        },
+        "Warummel": {
+            "rating": "2561.95",
+            "Victories": "89",
+            "Draws": "12",
+            "Defeats": "20"
+        },
+        "arshiamohamadian2": {
+            "rating": "2561.15",
+            "Victories": "154",
+            "Draws": "12",
+            "Defeats": "48"
+        },
+        "Winnie1the1Pooh": {
+            "rating": "2453.65",
+            "Victories": "74",
+            "Draws": "10",
+            "Defeats": "14"
+        },
+        "chess_lover2020": {
+            "rating": "2650.03",
+            "Victories": "22",
+            "Draws": "2",
+            "Defeats": "1"
+        },
+        "komis1987": {
+            "rating": "2467.48",
+            "Victories": "3126",
+            "Draws": "1015",
+            "Defeats": "2494"
+        },
+        "crepefromage": {
+            "rating": "2483.18",
+            "Victories": "101",
+            "Draws": "16",
+            "Defeats": "14"
+        },
+        "SchieberSpieler": {
+            "rating": "2555.17",
+            "Victories": "1873",
+            "Draws": "223",
+            "Defeats": "170"
+        },
+        "evidencebased": {
+            "rating": "2502.19",
+            "Victories": "22",
+            "Draws": "2",
+            "Defeats": "2"
+        },
+        "asavis": {
+            "rating": "2457.18",
+            "Victories": "948",
+            "Draws": "121",
+            "Defeats": "649"
+        },
+        "GabrielTricks2003": {
+            "rating": "2452.76",
+            "Victories": "169",
+            "Draws": "28",
+            "Defeats": "70"
+        },
+        "contel08": {
+            "rating": "2284.21",
+            "Victories": "760",
+            "Draws": "75",
+            "Defeats": "265"
+        },
+        "interestinggame3": {
+            "rating": "2464.80",
+            "Victories": "61",
+            "Draws": "2",
+            "Defeats": "9"
+        },
+        "Tarrasch300": {
+            "rating": "2504.42",
+            "Victories": "93",
+            "Draws": "16",
+            "Defeats": "22"
+        },
+        "nmiq": {
+            "rating": "2548.86",
+            "Victories": "221",
+            "Draws": "25",
+            "Defeats": "73"
+        },
+        "Lord-Universe31": {
+            "rating": "2465.46",
+            "Victories": "749",
+            "Draws": "103",
+            "Defeats": "109"
+        },
+        "Kung_Fu_Panda3": {
+            "rating": "2604.68",
+            "Victories": "996",
+            "Draws": "105",
+            "Defeats": "257"
+        },
+        "Razin1381": {
+            "rating": "2239.18",
+            "Victories": "36",
+            "Draws": "4",
+            "Defeats": "30"
+        },
+        "Checkmate_2023": {
+            "rating": "2226.15",
+            "Victories": "95",
+            "Draws": "3",
+            "Defeats": "53"
+        },
+        "PchelkinVK": {
+            "rating": "2552.28",
+            "Victories": "1754",
+            "Draws": "102",
+            "Defeats": "412"
+        },
+        "PREDATOR624": {
+            "rating": "2315.63",
+            "Victories": "476",
+            "Draws": "16",
+            "Defeats": "95"
+        },
+        "GangUnitTristan": {
+            "rating": "2558.34",
+            "Victories": "171",
+            "Draws": "12",
+            "Defeats": "21"
+        },
+        "oberschlumpf": {
+            "rating": "2389.42",
+            "Victories": "5884",
+            "Draws": "562",
+            "Defeats": "634"
+        },
+        "Unkreativ3": {
+            "rating": "2507.43",
+            "Victories": "288",
+            "Draws": "24",
+            "Defeats": "74"
+        },
+        "PozharskyNikolay": {
+            "rating": "2375.69",
+            "Victories": "570",
+            "Draws": "44",
+            "Defeats": "153"
+        },
+        "LEV2310": {
+            "rating": "2520.44",
+            "Victories": "454",
+            "Draws": "71",
+            "Defeats": "208"
+        },
+        "Wittke": {
+            "rating": "2486.50",
+            "Victories": "1753",
+            "Draws": "135",
+            "Defeats": "161"
+        },
+        "AnnaSchach": {
+            "rating": "2139.36",
+            "Victories": "257",
+            "Draws": "71",
+            "Defeats": "219"
+        },
+        "Dennis1989": {
+            "rating": "2479.62",
+            "Victories": "1374",
+            "Draws": "139",
+            "Defeats": "287"
+        },
+        "Alexey_Golovchenko": {
+            "rating": "2387.83",
+            "Victories": "2840",
+            "Draws": "154",
+            "Defeats": "422"
+        },
+        "Casabianka": {
+            "rating": "2473.75",
+            "Victories": "187",
+            "Draws": "59",
+            "Defeats": "153"
+        },
+        "nilaco": {
+            "rating": "2385.36",
+            "Victories": "17",
+            "Draws": "4",
+            "Defeats": "3"
+        },
+        "Carpe7diem": {
+            "rating": "2435.69",
+            "Victories": "132",
+            "Draws": "21",
+            "Defeats": "24"
+        },
+        "alesha_kiselev": {
+            "rating": "2363.76",
+            "Victories": "235",
+            "Draws": "8",
+            "Defeats": "41"
+        },
+        "Cadena2": {
+            "rating": "2570.34",
+            "Victories": "118",
+            "Draws": "7",
+            "Defeats": "12"
+        },
+        "RobertT74": {
+            "rating": "2465.65",
+            "Victories": "2621",
+            "Draws": "102",
+            "Defeats": "331"
+        },
+        "JacksterThePro": {
+            "rating": "2503.73",
+            "Victories": "315",
+            "Draws": "36",
+            "Defeats": "143"
+        },
+        "Bertrandrussell55": {
+            "rating": "2513.94",
+            "Victories": "380",
+            "Draws": "46",
+            "Defeats": "131"
+        },
+        "Rochade_Augsburg": {
+            "rating": "2520.24",
+            "Victories": "5666",
+            "Draws": "327",
+            "Defeats": "652"
+        },
+        "Cyrus-Damiray_Tanza": {
+            "rating": "2518.87",
+            "Victories": "317",
+            "Draws": "47",
+            "Defeats": "172"
+        },
+        "Konnov_Oleg": {
+            "rating": "2605.33",
+            "Victories": "605",
+            "Draws": "53",
+            "Defeats": "67"
+        },
+        "hanyabdo": {
+            "rating": "2372.03",
+            "Victories": "2364",
+            "Draws": "337",
+            "Defeats": "1777"
+        },
+        "Art-Vega": {
+            "rating": "2504.54",
+            "Victories": "2995",
+            "Draws": "287",
+            "Defeats": "810"
+        },
+        "Skims": {
+            "rating": "2322.53",
+            "Victories": "108",
+            "Draws": "19",
+            "Defeats": "56"
+        },
+        "Tomberg_Dmitry": {
+            "rating": "2501.58",
+            "Victories": "321",
+            "Draws": "21",
+            "Defeats": "90"
+        },
+        "PLIVADON": {
+            "rating": "2349.79",
+            "Victories": "2085",
+            "Draws": "171",
+            "Defeats": "536"
+        },
+        "kotikribolow": {
+            "rating": "2516.17",
+            "Victories": "204",
+            "Draws": "15",
+            "Defeats": "45"
+        },
+        "Martin-Luthers-King": {
+            "rating": "2362.49",
+            "Victories": "56",
+            "Draws": "5",
+            "Defeats": "13"
+        },
+        "gooddave2017": {
+            "rating": "2658.16",
+            "Victories": "353",
+            "Draws": "41",
+            "Defeats": "74"
+        },
+        "washedup0810": {
+            "rating": "2304.07",
+            "Victories": "27",
+            "Draws": "3",
+            "Defeats": "5"
+        },
+        "AmirM_Ghiyasi": {
+            "rating": "2362.68",
+            "Victories": "135",
+            "Draws": "15",
+            "Defeats": "60"
+        },
+        "The_Knight_of_Spring": {
+            "rating": "2349.53",
+            "Victories": "56",
+            "Draws": "5",
+            "Defeats": "6"
+        },
+        "BigTy": {
+            "rating": "2526.12",
+            "Victories": "1221",
+            "Draws": "248",
+            "Defeats": "969"
+        },
+        "Fasmc17": {
+            "rating": "2427.22",
+            "Victories": "626",
+            "Draws": "111",
+            "Defeats": "425"
+        },
+        "HoochieChoochieMan": {
+            "rating": "2178.00",
+            "Victories": "9",
+            "Draws": "1",
+            "Defeats": "2"
+        },
+        "Denis_Tunik1": {
+            "rating": "2170.51",
+            "Victories": "19",
+            "Draws": "3",
+            "Defeats": "5"
+        },
+        "MurzikBorzik": {
+            "rating": "2350.75",
+            "Victories": "157",
+            "Draws": "20",
+            "Defeats": "105"
+        },
+        "muzoto": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "1",
+            "Defeats": "1"
+        },
+        "GetTriangled": {
+            "rating": "2538.98",
+            "Victories": "102",
+            "Draws": "7",
+            "Defeats": "28"
+        },
+        "GrandLapin": {
+            "rating": "2513.80",
+            "Victories": "884",
+            "Draws": "127",
+            "Defeats": "348"
+        },
+        "Dhyey_Agarwal": {
+            "rating": "2494.53",
+            "Victories": "44",
+            "Draws": "9",
+            "Defeats": "28"
+        },
+        "Niklazze": {
+            "rating": "?",
+            "Victories": "6",
+            "Draws": "4",
+            "Defeats": "1"
+        },
+        "gereftar": {
+            "rating": "2350.41",
+            "Victories": "1375",
+            "Draws": "112",
+            "Defeats": "481"
+        },
+        "MTBoss": {
+            "rating": "2254.42",
+            "Victories": "475",
+            "Draws": "56",
+            "Defeats": "332"
+        },
+        "stonecoldfish": {
+            "rating": "2327.15",
+            "Victories": "922",
+            "Draws": "135",
+            "Defeats": "595"
+        },
+        "EngineeredAttack": {
+            "rating": "2396.84",
+            "Victories": "232",
+            "Draws": "26",
+            "Defeats": "54"
+        },
+        "Viktor_Tahirov555": {
+            "rating": "2482.95",
+            "Victories": "391",
+            "Draws": "50",
+            "Defeats": "154"
+        },
+        "Izard": {
+            "rating": "2502.72",
+            "Victories": "161",
+            "Draws": "8",
+            "Defeats": "17"
+        },
+        "YourBilli": {
+            "rating": "2011.07",
+            "Victories": "629",
+            "Draws": "56",
+            "Defeats": "591"
+        },
+        "Trrak55": {
+            "rating": "2422.64",
+            "Victories": "5214",
+            "Draws": "353",
+            "Defeats": "1975"
+        },
+        "cunnan64": {
+            "rating": "2304.34",
+            "Victories": "263",
+            "Draws": "33",
+            "Defeats": "212"
+        },
+        "Squaretaker": {
+            "rating": "2501.80",
+            "Victories": "885",
+            "Draws": "64",
+            "Defeats": "152"
+        },
+        "H_S_2161": {
+            "rating": "2357.70",
+            "Victories": "340",
+            "Draws": "75",
+            "Defeats": "159"
+        },
+        "r178r7": {
+            "rating": "2500.81",
+            "Victories": "403",
+            "Draws": "134",
+            "Defeats": "259"
+        },
+        "pepellou": {
+            "rating": "2312.83",
+            "Victories": "2926",
+            "Draws": "140",
+            "Defeats": "633"
+        },
+        "Morrdor": {
+            "rating": "2431.22",
+            "Victories": "752",
+            "Draws": "111",
+            "Defeats": "284"
+        },
+        "ohohohoh": {
+            "rating": "2502.71",
+            "Victories": "161",
+            "Draws": "37",
+            "Defeats": "140"
+        },
+        "jeromeou": {
+            "rating": "2401.17",
+            "Victories": "759",
+            "Draws": "111",
+            "Defeats": "320"
+        },
+        "Ajolote4": {
+            "rating": "2225.45",
+            "Victories": "41",
+            "Draws": "3",
+            "Defeats": "14"
+        },
+        "Hematom87": {
+            "rating": "2463.07",
+            "Victories": "588",
+            "Draws": "28",
+            "Defeats": "94"
+        },
+        "verybadchess": {
+            "rating": "2237.83",
+            "Victories": "114",
+            "Draws": "4",
+            "Defeats": "28"
+        },
+        "LGSLG": {
+            "rating": "2079.88",
+            "Victories": "48",
+            "Draws": "2",
+            "Defeats": "16"
+        },
+        "Seriosha": {
+            "rating": "2399.51",
+            "Victories": "511",
+            "Draws": "35",
+            "Defeats": "183"
+        },
+        "Lasker-on-speed": {
+            "rating": "2390.12",
+            "Victories": "40",
+            "Draws": "6",
+            "Defeats": "22"
+        },
+        "Igor_IB": {
+            "rating": "2404.75",
+            "Victories": "364",
+            "Draws": "80",
+            "Defeats": "245"
+        },
+        "Futyporyt": {
+            "rating": "2343.48",
+            "Victories": "394",
+            "Draws": "25",
+            "Defeats": "157"
+        },
+        "Varchavianka": {
+            "rating": "2378.05",
+            "Victories": "478",
+            "Draws": "29",
+            "Defeats": "195"
+        },
+        "KingMorra": {
+            "rating": "2528.59",
+            "Victories": "82",
+            "Draws": "9",
+            "Defeats": "15"
+        },
+        "TPDCHAPMAN": {
+            "rating": "2382.01",
+            "Victories": "72",
+            "Draws": "14",
+            "Defeats": "30"
+        },
+        "alexa01123": {
+            "rating": "2466.92",
+            "Victories": "144",
+            "Draws": "6",
+            "Defeats": "35"
+        },
+        "monben": {
+            "rating": "2316.40",
+            "Victories": "10",
+            "Draws": "2",
+            "Defeats": "4"
+        },
+        "Latinceadam34": {
+            "rating": "2483.85",
+            "Victories": "206",
+            "Draws": "37",
+            "Defeats": "156"
+        },
+        "Jessika-Demm777": {
+            "rating": "2282.20",
+            "Victories": "368",
+            "Draws": "13",
+            "Defeats": "61"
+        },
+        "bluberrie_tea": {
+            "rating": "2339.40",
+            "Victories": "12",
+            "Draws": "4",
+            "Defeats": "6"
+        },
+        "Fischer3510": {
+            "rating": "2273.96",
+            "Victories": "3",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "tirumpu": {
+            "rating": "2376.17",
+            "Victories": "1205",
+            "Draws": "230",
+            "Defeats": "966"
+        },
+        "AS77": {
+            "rating": "2253.89",
+            "Victories": "319",
+            "Draws": "22",
+            "Defeats": "93"
+        },
+        "Nemo00": {
+            "rating": "2340.04",
+            "Victories": "23",
+            "Draws": "3",
+            "Defeats": "23"
+        },
+        "Startitup": {
+            "rating": "2463.81",
+            "Victories": "3426",
+            "Draws": "238",
+            "Defeats": "405"
+        },
+        "sergejmilosevic": {
+            "rating": "2443.92",
+            "Victories": "96",
+            "Draws": "18",
+            "Defeats": "61"
+        },
+        "spidey786": {
+            "rating": "2509.31",
+            "Victories": "193",
+            "Draws": "22",
+            "Defeats": "90"
+        },
+        "Gepard1988": {
+            "rating": "2266.61",
+            "Victories": "935",
+            "Draws": "105",
+            "Defeats": "208"
+        },
+        "AustinL0926": {
+            "rating": "2328.33",
+            "Victories": "277",
+            "Draws": "41",
+            "Defeats": "174"
+        },
+        "Glasslinger": {
+            "rating": "2186.95",
+            "Victories": "47",
+            "Draws": "7",
+            "Defeats": "17"
+        },
+        "stambul65": {
+            "rating": "2510.14",
+            "Victories": "953",
+            "Draws": "109",
+            "Defeats": "151"
+        },
+        "Fomin_Ilya": {
+            "rating": "2413.95",
+            "Victories": "325",
+            "Draws": "34",
+            "Defeats": "76"
+        },
+        "AxtlanSanchez": {
+            "rating": "2424.52",
+            "Victories": "262",
+            "Draws": "41",
+            "Defeats": "94"
+        },
+        "Pathetic_Human": {
+            "rating": "2276.63",
+            "Victories": "797",
+            "Draws": "81",
+            "Defeats": "412"
+        },
+        "chesspawnrookking": {
+            "rating": "2398.58",
+            "Victories": "823",
+            "Draws": "51",
+            "Defeats": "207"
+        },
+        "supertrif": {
+            "rating": "2396.26",
+            "Victories": "1351",
+            "Draws": "233",
+            "Defeats": "821"
+        },
+        "kyousoo": {
+            "rating": "2365.54",
+            "Victories": "296",
+            "Draws": "53",
+            "Defeats": "165"
+        },
+        "supersayian": {
+            "rating": "2301.61",
+            "Victories": "269",
+            "Draws": "13",
+            "Defeats": "60"
+        },
+        "chessrun2020": {
+            "rating": "2142.68",
+            "Victories": "23",
+            "Draws": "4",
+            "Defeats": "13"
+        },
+        "Warm_snow": {
+            "rating": "2325.90",
+            "Victories": "64",
+            "Draws": "3",
+            "Defeats": "12"
+        },
+        "Michael-Westen": {
+            "rating": "2381.24",
+            "Victories": "1056",
+            "Draws": "192",
+            "Defeats": "738"
+        },
+        "Pawndercover": {
+            "rating": "2274.30",
+            "Victories": "266",
+            "Draws": "43",
+            "Defeats": "94"
+        },
+        "boberarena": {
+            "rating": "2188.11",
+            "Victories": "4551",
+            "Draws": "169",
+            "Defeats": "1332"
+        },
+        "RJDC": {
+            "rating": "2370.23",
+            "Victories": "201",
+            "Draws": "22",
+            "Defeats": "134"
+        },
+        "Morabout": {
+            "rating": "2486.38",
+            "Victories": "116",
+            "Draws": "10",
+            "Defeats": "75"
+        },
+        "VicentTheBoss": {
+            "rating": "2412.87",
+            "Victories": "105",
+            "Draws": "15",
+            "Defeats": "46"
+        },
+        "lucas444": {
+            "rating": "2554.09",
+            "Victories": "627",
+            "Draws": "87",
+            "Defeats": "371"
+        },
+        "arthi15": {
+            "rating": "2434.28",
+            "Victories": "274",
+            "Draws": "32",
+            "Defeats": "101"
+        },
+        "svensp": {
+            "rating": "2249.56",
+            "Victories": "200",
+            "Draws": "31",
+            "Defeats": "92"
+        },
+        "LUCHOc": {
+            "rating": "2345.67",
+            "Victories": "928",
+            "Draws": "29",
+            "Defeats": "109"
+        },
+        "NebenEckenSpringer": {
+            "rating": "2289.82",
+            "Victories": "623",
+            "Draws": "60",
+            "Defeats": "151"
+        },
+        "Pavvell": {
+            "rating": "2408.98",
+            "Victories": "5711",
+            "Draws": "464",
+            "Defeats": "1412"
+        },
+        "philodendron68": {
+            "rating": "2410.03",
+            "Victories": "4136",
+            "Draws": "324",
+            "Defeats": "687"
+        },
+        "KvadritsiusAleksey": {
+            "rating": "2159.56",
+            "Victories": "1087",
+            "Draws": "98",
+            "Defeats": "631"
+        },
+        "super_pro12": {
+            "rating": "2353.14",
+            "Victories": "1255",
+            "Draws": "105",
+            "Defeats": "818"
+        },
+        "acheratia_atropos": {
+            "rating": "2299.84",
+            "Victories": "80",
+            "Draws": "22",
+            "Defeats": "70"
+        },
+        "niclang": {
+            "rating": "2309.49",
+            "Victories": "2126",
+            "Draws": "233",
+            "Defeats": "1263"
+        },
+        "Atekhine": {
+            "rating": "2301.49",
+            "Victories": "8137",
+            "Draws": "616",
+            "Defeats": "2566"
+        },
+        "Supernik08": {
+            "rating": "2307.57",
+            "Victories": "1381",
+            "Draws": "135",
+            "Defeats": "475"
+        },
+        "Vasili-53": {
+            "rating": "2238.12",
+            "Victories": "793",
+            "Draws": "52",
+            "Defeats": "235"
+        },
+        "mercedesc300": {
+            "rating": "2462.99",
+            "Victories": "74",
+            "Draws": "7",
+            "Defeats": "30"
+        },
+        "Lamujen": {
+            "rating": "2324.13",
+            "Victories": "298",
+            "Draws": "25",
+            "Defeats": "49"
+        },
+        "scrollgr": {
+            "rating": "2272.95",
+            "Victories": "574",
+            "Draws": "92",
+            "Defeats": "115"
+        },
+        "struggleandart": {
+            "rating": "2378.43",
+            "Victories": "158",
+            "Draws": "43",
+            "Defeats": "175"
+        },
+        "LittleFairyPrincess": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "dvk84": {
+            "rating": "2431.74",
+            "Victories": "334",
+            "Draws": "84",
+            "Defeats": "192"
+        },
+        "AKI77Siam": {
+            "rating": "2355.43",
+            "Victories": "878",
+            "Draws": "88",
+            "Defeats": "168"
+        },
+        "Koblenz64": {
+            "rating": "1947.88",
+            "Victories": "29",
+            "Draws": "0",
+            "Defeats": "8"
+        },
+        "Crushing_Kings": {
+            "rating": "2452.64",
+            "Victories": "151",
+            "Draws": "29",
+            "Defeats": "162"
+        },
+        "canibalchess": {
+            "rating": "2352.29",
+            "Victories": "12099",
+            "Draws": "1094",
+            "Defeats": "4474"
+        },
+        "TAMILAN-DA": {
+            "rating": "2433.85",
+            "Victories": "379",
+            "Draws": "63",
+            "Defeats": "205"
+        },
+        "Merliner": {
+            "rating": "2425.12",
+            "Victories": "147",
+            "Draws": "30",
+            "Defeats": "99"
+        },
+        "Wazzzup123": {
+            "rating": "2309.46",
+            "Victories": "136",
+            "Draws": "21",
+            "Defeats": "72"
+        },
+        "Razorneck": {
+            "rating": "2179.79",
+            "Victories": "349",
+            "Draws": "53",
+            "Defeats": "376"
+        },
+        "Lelouch_Vi_Brittania": {
+            "rating": "2485.95",
+            "Victories": "699",
+            "Draws": "67",
+            "Defeats": "384"
+        },
+        "Goodness_1": {
+            "rating": "2400.54",
+            "Victories": "503",
+            "Draws": "108",
+            "Defeats": "319"
+        },
+        "Thompson_A": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Michichess24": {
+            "rating": "2303.49",
+            "Victories": "573",
+            "Draws": "81",
+            "Defeats": "207"
+        },
+        "gsmah13": {
+            "rating": "2390.71",
+            "Victories": "191",
+            "Draws": "10",
+            "Defeats": "43"
+        },
+        "student69": {
+            "rating": "2456.27",
+            "Victories": "58",
+            "Draws": "12",
+            "Defeats": "54"
+        },
+        "Jamigo123": {
+            "rating": "2389.42",
+            "Victories": "83",
+            "Draws": "5",
+            "Defeats": "12"
+        },
+        "Main_pawn": {
+            "rating": "2327.42",
+            "Victories": "65",
+            "Draws": "15",
+            "Defeats": "34"
+        },
+        "exceljax": {
+            "rating": "2323.51",
+            "Victories": "525",
+            "Draws": "69",
+            "Defeats": "225"
+        },
+        "headx86": {
+            "rating": "2356.55",
+            "Victories": "302",
+            "Draws": "45",
+            "Defeats": "186"
+        },
+        "Tsilboy": {
+            "rating": "2407.15",
+            "Victories": "197",
+            "Draws": "45",
+            "Defeats": "93"
+        },
+        "fransisca23": {
+            "rating": "2468.21",
+            "Victories": "245",
+            "Draws": "44",
+            "Defeats": "143"
+        },
+        "ajedrezpensado84": {
+            "rating": "2345.70",
+            "Victories": "62",
+            "Draws": "4",
+            "Defeats": "24"
+        },
+        "Felix_bn": {
+            "rating": "2140.35",
+            "Victories": "1533",
+            "Draws": "158",
+            "Defeats": "774"
+        },
+        "alexei_71": {
+            "rating": "2495.75",
+            "Victories": "241",
+            "Draws": "53",
+            "Defeats": "138"
+        },
+        "repeat_42b": {
+            "rating": "2499.38",
+            "Victories": "452",
+            "Draws": "158",
+            "Defeats": "292"
+        },
+        "dalekanium": {
+            "rating": "2373.88",
+            "Victories": "136",
+            "Draws": "23",
+            "Defeats": "76"
+        },
+        "Luke_Owen": {
+            "rating": "2237.79",
+            "Victories": "320",
+            "Draws": "43",
+            "Defeats": "161"
+        },
+        "derFelix": {
+            "rating": "2500.65",
+            "Victories": "344",
+            "Draws": "36",
+            "Defeats": "120"
+        },
+        "kawhi2": {
+            "rating": "2467.67",
+            "Victories": "81",
+            "Draws": "9",
+            "Defeats": "24"
+        },
+        "ilya_k": {
+            "rating": "2363.79",
+            "Victories": "1098",
+            "Draws": "136",
+            "Defeats": "989"
+        },
+        "Antonovsky4": {
+            "rating": "2401.22",
+            "Victories": "138",
+            "Draws": "28",
+            "Defeats": "108"
+        },
+        "chinnertowinner": {
+            "rating": "2344.13",
+            "Victories": "51",
+            "Draws": "5",
+            "Defeats": "17"
+        },
+        "clownmitmuetze": {
+            "rating": "2340.59",
+            "Victories": "453",
+            "Draws": "49",
+            "Defeats": "145"
+        },
+        "supriyati": {
+            "rating": "2242.82",
+            "Victories": "357",
+            "Draws": "44",
+            "Defeats": "245"
+        },
+        "Endika79": {
+            "rating": "2310.47",
+            "Victories": "83",
+            "Draws": "5",
+            "Defeats": "57"
+        },
+        "siyeyi_111": {
+            "rating": "2184.04",
+            "Victories": "348",
+            "Draws": "56",
+            "Defeats": "252"
+        },
+        "geneh59": {
+            "rating": "2400.65",
+            "Victories": "1230",
+            "Draws": "114",
+            "Defeats": "447"
+        },
+        "zanguetsu35": {
+            "rating": "2441.38",
+            "Victories": "36",
+            "Draws": "4",
+            "Defeats": "15"
+        },
+        "WhimsicalJammed": {
+            "rating": "2457.47",
+            "Victories": "383",
+            "Draws": "45",
+            "Defeats": "140"
+        },
+        "aandreyev": {
+            "rating": "2333.82",
+            "Victories": "256",
+            "Draws": "52",
+            "Defeats": "228"
+        },
+        "pablocianni": {
+            "rating": "2320.67",
+            "Victories": "25",
+            "Draws": "1",
+            "Defeats": "5"
+        },
+        "silentdark": {
+            "rating": "2277.20",
+            "Victories": "1651",
+            "Draws": "42",
+            "Defeats": "147"
+        },
+        "Octopus1": {
+            "rating": "2159.16",
+            "Victories": "65",
+            "Draws": "13",
+            "Defeats": "40"
+        },
+        "HCMB": {
+            "rating": "2408.05",
+            "Victories": "198",
+            "Draws": "31",
+            "Defeats": "81"
+        },
+        "larrrs": {
+            "rating": "2259.37",
+            "Victories": "379",
+            "Draws": "72",
+            "Defeats": "247"
+        },
+        "AlmostSimple": {
+            "rating": "2233.92",
+            "Victories": "136",
+            "Draws": "24",
+            "Defeats": "78"
+        },
+        "Avslugin80": {
+            "rating": "2404.61",
+            "Victories": "2002",
+            "Draws": "188",
+            "Defeats": "727"
+        },
+        "Hady_369": {
+            "rating": "2332.16",
+            "Victories": "731",
+            "Draws": "27",
+            "Defeats": "124"
+        },
+        "MisterMurks": {
+            "rating": "2106.38",
+            "Victories": "135",
+            "Draws": "28",
+            "Defeats": "113"
+        },
+        "Sitdikov_Ratmir": {
+            "rating": "2307.24",
+            "Victories": "580",
+            "Draws": "40",
+            "Defeats": "183"
+        },
+        "RO_BR": {
+            "rating": "2205.55",
+            "Victories": "120",
+            "Draws": "6",
+            "Defeats": "35"
+        },
+        "underground1": {
+            "rating": "2225.44",
+            "Victories": "81",
+            "Draws": "13",
+            "Defeats": "21"
+        },
+        "ohnomyqueeeeen": {
+            "rating": "2359.18",
+            "Victories": "6",
+            "Draws": "0",
+            "Defeats": "2"
+        },
+        "Mohammed_Abdelghani": {
+            "rating": "2147.00",
+            "Victories": "41",
+            "Draws": "1",
+            "Defeats": "15"
+        },
+        "Ginoux": {
+            "rating": "2188.85",
+            "Victories": "677",
+            "Draws": "111",
+            "Defeats": "512"
+        },
+        "IKWA": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "AkiraFastestMan": {
+            "rating": "2411.23",
+            "Victories": "40",
+            "Draws": "4",
+            "Defeats": "16"
+        },
+        "glavih17": {
+            "rating": "2167.49",
+            "Victories": "20",
+            "Draws": "2",
+            "Defeats": "26"
+        },
+        "Ultrabulletbeast1000": {
+            "rating": "2132.26",
+            "Victories": "37",
+            "Draws": "4",
+            "Defeats": "20"
+        },
+        "Iwasinelectrical": {
+            "rating": "2626.88",
+            "Victories": "34",
+            "Draws": "9",
+            "Defeats": "14"
+        },
+        "AnonymouseGM": {
+            "rating": "2504.76",
+            "Victories": "43",
+            "Draws": "6",
+            "Defeats": "14"
+        },
+        "anonymous61596": {
+            "rating": "2279.46",
+            "Victories": "75",
+            "Draws": "18",
+            "Defeats": "16"
+        },
+        "gravereaper": {
+            "rating": "2722.64",
+            "Victories": "352",
+            "Draws": "20",
+            "Defeats": "29"
+        },
+        "Fahad-Rahman": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "RocketS1": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "P4ssion": {
+            "rating": "?",
+            "Victories": "2",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "yuuki-asuna": {
+            "rating": "2587.39",
+            "Victories": "99",
+            "Draws": "8",
+            "Defeats": "5"
+        },
+        "JAXA": {
+            "rating": "2343.03",
+            "Victories": "21",
+            "Draws": "0",
+            "Defeats": "6"
+        },
+        "Ninja_Checkmate_123": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Ksushka_LoveYou": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Hender": {
+            "rating": "1715.49",
+            "Victories": "7",
+            "Draws": "0",
+            "Defeats": "2"
+        },
+        "DominikDerBoss": {
+            "rating": "2507.92",
+            "Victories": "451",
+            "Draws": "35",
+            "Defeats": "117"
+        },
+        "AsylbekDauren": {
+            "rating": "1656.82",
+            "Victories": "36",
+            "Draws": "5",
+            "Defeats": "17"
+        },
+        "Arsen_chess": {
+            "rating": "2281.33",
+            "Victories": "261",
+            "Draws": "39",
+            "Defeats": "417"
+        },
+        "Mr_NoProblem": {
+            "rating": "2183.12",
+            "Victories": "53",
+            "Draws": "5",
+            "Defeats": "39"
+        },
+        "Suleyman_Chess06": {
+            "rating": "2507.52",
+            "Victories": "163",
+            "Draws": "41",
+            "Defeats": "75"
+        },
+        "Assios": {
+            "rating": "2198.92",
+            "Victories": "110",
+            "Draws": "6",
+            "Defeats": "31"
+        },
+        "greennight": {
+            "rating": "2340.99",
+            "Victories": "56",
+            "Draws": "29",
+            "Defeats": "31"
+        },
+        "Lonely_Bro": {
+            "rating": "1965.15",
+            "Victories": "110",
+            "Draws": "20",
+            "Defeats": "116"
+        },
+        "BSAKETH": {
+            "rating": "2358.78",
+            "Victories": "201",
+            "Draws": "12",
+            "Defeats": "52"
+        },
+        "pigu": {
+            "rating": "?",
+            "Victories": "2",
+            "Draws": "0",
+            "Defeats": "2"
+        },
+        "GoldenWarriior": {
+            "rating": "2221.72",
+            "Victories": "6",
+            "Draws": "0",
+            "Defeats": "2"
+        },
+        "JasonMendozaJaxonvil": {
+            "rating": "2163.33",
+            "Victories": "11",
+            "Draws": "0",
+            "Defeats": "6"
+        },
+        "Arad_Nazari": {
+            "rating": "2213.74",
+            "Victories": "26",
+            "Draws": "13",
+            "Defeats": "29"
+        },
+        "Gnojnyj": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "THE_COOL_GUY": {
+            "rating": "2333.96",
+            "Victories": "199",
+            "Draws": "21",
+            "Defeats": "25"
+        },
+        "TacticalMonkey": {
+            "rating": "2047.49",
+            "Victories": "2",
+            "Draws": "0",
+            "Defeats": "1"
+        },
+        "Pulevikfromspb": {
+            "rating": "2398.66",
+            "Victories": "21",
+            "Draws": "7",
+            "Defeats": "13"
+        },
+        "LagIsUnfair": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "majorbajor02": {
+            "rating": "2196.73",
+            "Victories": "87",
+            "Draws": "12",
+            "Defeats": "20"
+        },
+        "Finansist2": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Clash_line": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Pilot-va228": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "krasavchik96": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "hajeko": {
+            "rating": "2502.69",
+            "Victories": "207",
+            "Draws": "24",
+            "Defeats": "109"
+        },
+        "NightOFzero": {
+            "rating": "2462.38",
+            "Victories": "952",
+            "Draws": "218",
+            "Defeats": "175"
+        },
+        "David55555": {
+            "rating": "2314.60",
+            "Victories": "77",
+            "Draws": "8",
+            "Defeats": "48"
+        },
+        "I_Love_You_Plushys": {
+            "rating": "1929.56",
+            "Victories": "11",
+            "Draws": "0",
+            "Defeats": "5"
+        },
+        "supertactic91": {
+            "rating": "2692.98",
+            "Victories": "5",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "tamojerry": {
+            "rating": "2311.33",
+            "Victories": "11",
+            "Draws": "3",
+            "Defeats": "2"
+        },
+        "MereseBerserkNhi": {
+            "rating": "2141.12",
+            "Victories": "21",
+            "Draws": "12",
+            "Defeats": "5"
+        },
+        "AppleProducts": {
+            "rating": "2175.19",
+            "Victories": "7",
+            "Draws": "2",
+            "Defeats": "7"
+        },
+        "Anonymous_Warrior": {
+            "rating": "2279.94",
+            "Victories": "59",
+            "Draws": "7",
+            "Defeats": "31"
+        },
+        "PORNES": {
+            "rating": "2015.64",
+            "Victories": "37",
+            "Draws": "4",
+            "Defeats": "4"
+        },
+        "Azeri-Chess2003": {
+            "rating": "2213.99",
+            "Victories": "3",
+            "Draws": "1",
+            "Defeats": "2"
+        },
+        "frostypanda37": {
+            "rating": "2418.31",
+            "Victories": "117",
+            "Draws": "16",
+            "Defeats": "27"
+        },
+        "The_Janissary": {
+            "rating": "2301.27",
+            "Victories": "541",
+            "Draws": "59",
+            "Defeats": "375"
+        },
+        "CristianoRonaldo96": {
+            "rating": "?",
+            "Victories": "11",
+            "Draws": "1",
+            "Defeats": "5"
+        },
+        "Hangar-18": {
+            "rating": "2298.43",
+            "Victories": "43",
+            "Draws": "4",
+            "Defeats": "6"
+        },
+        "Dorukko": {
+            "rating": "2155.69",
+            "Victories": "78",
+            "Draws": "6",
+            "Defeats": "74"
+        },
+        "Cocorichess": {
+            "rating": "2303.93",
+            "Victories": "1008",
+            "Draws": "56",
+            "Defeats": "280"
+        },
+        "TheSubtleBlunder": {
+            "rating": "2316.90",
+            "Victories": "4",
+            "Draws": "0",
+            "Defeats": "2"
+        },
+        "Se7enIsPro": {
+            "rating": "1380.90",
+            "Victories": "3",
+            "Draws": "1",
+            "Defeats": "14"
+        },
+        "ukchessbomber": {
+            "rating": "2339.97",
+            "Victories": "61",
+            "Draws": "6",
+            "Defeats": "25"
+        },
+        "Dr_Martic": {
+            "rating": "2492.83",
+            "Victories": "274",
+            "Draws": "81",
+            "Defeats": "94"
+        },
+        "joyfulscooter": {
+            "rating": "2150.22",
+            "Victories": "304",
+            "Draws": "37",
+            "Defeats": "135"
+        },
+        "SabaqOnline_Dauren": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "ASONINEYA": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "2"
+        },
+        "SpeedMonkey": {
+            "rating": "2600.06",
+            "Victories": "360",
+            "Draws": "26",
+            "Defeats": "75"
+        },
+        "Krishnadas16_2004": {
+            "rating": "2251.63",
+            "Victories": "182",
+            "Draws": "15",
+            "Defeats": "93"
+        },
+        "AndruhaMaksimov": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "GRGM2B": {
+            "rating": "2413.70",
+            "Victories": "36",
+            "Draws": "21",
+            "Defeats": "28"
+        },
+        "O_6": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "DelaYisi": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "bazukat": {
+            "rating": "2406.44",
+            "Victories": "317",
+            "Draws": "31",
+            "Defeats": "197"
+        },
+        "magentamango": {
+            "rating": "2222.67",
+            "Victories": "94",
+            "Draws": "17",
+            "Defeats": "46"
+        },
+        "penguingim1_updated": {
+            "rating": "2237.16",
+            "Victories": "15",
+            "Draws": "2",
+            "Defeats": "6"
+        },
+        "Alekhine_defense": {
+            "rating": "1927.98",
+            "Victories": "222",
+            "Draws": "20",
+            "Defeats": "87"
+        },
+        "Zapasnoy": {
+            "rating": "2315.33",
+            "Victories": "14",
+            "Draws": "4",
+            "Defeats": "12"
+        },
+        "Iamthebestofchess": {
+            "rating": "2010.19",
+            "Victories": "22",
+            "Draws": "4",
+            "Defeats": "11"
+        },
+        "Grandmaster2850": {
+            "rating": "2400.66",
+            "Victories": "33",
+            "Draws": "3",
+            "Defeats": "4"
+        },
+        "GenerousCrab": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "ShipaShipitza": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "babun0": {
+            "rating": "?",
+            "Victories": "4",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "TheCrucial01": {
+            "rating": "2500.09",
+            "Victories": "6",
+            "Draws": "0",
+            "Defeats": "3"
+        },
+        "Cheretand": {
+            "rating": "2460.80",
+            "Victories": "1283",
+            "Draws": "156",
+            "Defeats": "1272"
+        },
+        "Drwatenelfeys": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Gamebreaker2": {
+            "rating": "2639.85",
+            "Victories": "25",
+            "Draws": "4",
+            "Defeats": "7"
+        },
+        "kovadlinka": {
+            "rating": "2379.76",
+            "Victories": "447",
+            "Draws": "22",
+            "Defeats": "107"
+        },
+        "BlitzPlease2021": {
+            "rating": "2300.15",
+            "Victories": "22",
+            "Draws": "2",
+            "Defeats": "6"
+        },
+        "TheSpike": {
+            "rating": "1798.81",
+            "Victories": "16",
+            "Draws": "2",
+            "Defeats": "9"
+        },
+        "rob188": {
+            "rating": "2352.63",
+            "Victories": "195",
+            "Draws": "34",
+            "Defeats": "58"
+        },
+        "jlmtik": {
+            "rating": "2538.91",
+            "Victories": "17",
+            "Draws": "1",
+            "Defeats": "2"
+        },
+        "CalbernandHowbe": {
+            "rating": "2113.81",
+            "Victories": "118",
+            "Draws": "15",
+            "Defeats": "107"
+        },
+        "clasherbabo": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "AgileSloth": {
+            "rating": "2600.24",
+            "Victories": "121",
+            "Draws": "17",
+            "Defeats": "35"
+        },
+        "cheesebuster": {
+            "rating": "2289.83",
+            "Victories": "9",
+            "Draws": "1",
+            "Defeats": "1"
+        },
+        "Fastlikethewind": {
+            "rating": "2556.46",
+            "Victories": "16",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Dr_mARtIk": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "1"
+        },
+        "Chess_Xman": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "om_gendut": {
+            "rating": "2395.38",
+            "Victories": "76",
+            "Draws": "26",
+            "Defeats": "13"
+        },
+        "Brave_spirit12": {
+            "rating": "2417.10",
+            "Victories": "121",
+            "Draws": "39",
+            "Defeats": "39"
+        },
+        "Tanatov_2006": {
+            "rating": "2334.77",
+            "Victories": "207",
+            "Draws": "37",
+            "Defeats": "142"
+        },
+        "monomita": {
+            "rating": "2382.21",
+            "Victories": "189",
+            "Draws": "47",
+            "Defeats": "64"
+        },
+        "swedishchessmafia": {
+            "rating": "2320.63",
+            "Victories": "843",
+            "Draws": "93",
+            "Defeats": "467"
+        },
+        "PracticalChessBeauty": {
+            "rating": "2311.46",
+            "Victories": "15",
+            "Draws": "2",
+            "Defeats": "4"
+        },
+        "Betovsky": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "1"
+        },
+        "L16297652": {
+            "rating": "2330.77",
+            "Victories": "15",
+            "Draws": "3",
+            "Defeats": "2"
+        },
+        "Gumdrops": {
+            "rating": "2292.64",
+            "Victories": "133",
+            "Draws": "4",
+            "Defeats": "41"
+        },
+        "ACDL": {
+            "rating": "2371.28",
+            "Victories": "13",
+            "Draws": "1",
+            "Defeats": "1"
+        },
+        "markus4": {
+            "rating": "2406.44",
+            "Victories": "360",
+            "Draws": "23",
+            "Defeats": "99"
+        },
+        "Alechess12": {
+            "rating": "2417.70",
+            "Victories": "185",
+            "Draws": "32",
+            "Defeats": "102"
+        },
+        "TouristLife": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Blasha": {
+            "rating": "2224.32",
+            "Victories": "48",
+            "Draws": "2",
+            "Defeats": "19"
+        },
+        "AryaCross": {
+            "rating": "2491.66",
+            "Victories": "4",
+            "Draws": "0",
+            "Defeats": "1"
+        },
+        "DustinDeWind": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "5"
+        },
+        "I1618033988749894848": {
+            "rating": "2334.46",
+            "Victories": "27",
+            "Draws": "2",
+            "Defeats": "10"
+        },
+        "Dvinik63": {
+            "rating": "2168.71",
+            "Victories": "91",
+            "Draws": "19",
+            "Defeats": "36"
+        },
+        "mouseonly": {
+            "rating": "?",
+            "Victories": "15",
+            "Draws": "0",
+            "Defeats": "6"
+        },
+        "Manuelapacco": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Thegoodthechess2": {
+            "rating": "1717.67",
+            "Victories": "4",
+            "Draws": "0",
+            "Defeats": "2"
+        },
+        "AlejoFastestMan": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Ispug_Sopernikov": {
+            "rating": "?",
+            "Victories": "1",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "AryaNaam2SunaHoga": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "OnurAlpCelik": {
+            "rating": "1512.29",
+            "Victories": "96",
+            "Draws": "20",
+            "Defeats": "73"
+        },
+        "MuhammedAliSenel": {
+            "rating": "2280.55",
+            "Victories": "39",
+            "Draws": "5",
+            "Defeats": "25"
+        },
+        "road_to_ultra_trophy": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Tacticator": {
+            "rating": "2400.16",
+            "Victories": "19",
+            "Draws": "6",
+            "Defeats": "5"
+        },
+        "ZerkLikeYouMad": {
+            "rating": "1390.33",
+            "Victories": "2",
+            "Draws": "0",
+            "Defeats": "2"
+        },
+        "pleaseresignnow": {
+            "rating": "2406.57",
+            "Victories": "105",
+            "Draws": "4",
+            "Defeats": "20"
+        },
+        "dalt_practice": {
+            "rating": "2166.70",
+            "Victories": "29",
+            "Draws": "2",
+            "Defeats": "16"
+        },
+        "chessknight2001": {
+            "rating": "2386.08",
+            "Victories": "86",
+            "Draws": "4",
+            "Defeats": "20"
+        },
+        "JoeAssaad": {
+            "rating": "2600.90",
+            "Victories": "442",
+            "Draws": "84",
+            "Defeats": "341"
+        },
+        "Parmarth": {
+            "rating": "?",
+            "Victories": "3",
+            "Draws": "0",
+            "Defeats": "18"
+        },
+        "Chessplayer1119": {
+            "rating": "2117.63",
+            "Victories": "56",
+            "Draws": "2",
+            "Defeats": "36"
+        },
+        "SiroglanTalibov": {
+            "rating": "2518.00",
+            "Victories": "129",
+            "Draws": "33",
+            "Defeats": "61"
+        },
+        "ultrar": {
+            "rating": "?",
+            "Victories": "3",
+            "Draws": "0",
+            "Defeats": "1"
+        },
+        "sincerity_rules": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "My-nick-BotWinNick": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "FainAstronomer": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "raspberry21": {
+            "rating": "?",
+            "Victories": "2",
+            "Draws": "0",
+            "Defeats": "2"
+        },
+        "xrd": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "niki-talebedev": {
+            "rating": "2001.11",
+            "Victories": "10",
+            "Draws": "2",
+            "Defeats": "6"
+        },
+        "cesar_r826": {
+            "rating": "?",
+            "Victories": "8",
+            "Draws": "0",
+            "Defeats": "1"
+        },
+        "CallMeGmail": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "OpheliaMyLoveee": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Nurkhan123123": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "gmbmw": {
+            "rating": "2506.17",
+            "Victories": "23",
+            "Draws": "2",
+            "Defeats": "7"
+        },
+        "Spohsib": {
+            "rating": "2340.51",
+            "Victories": "243",
+            "Draws": "43",
+            "Defeats": "151"
+        },
+        "supertraper": {
+            "rating": "?",
+            "Victories": "0",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Shivadhi_OP": {
+            "rating": "?",
+            "Victories": "1",
+            "Draws": "0",
+            "Defeats": "1"
+        },
+        "Ultrazz08": {
+            "rating": "?",
+            "Victories": "27",
+            "Draws": "1",
+            "Defeats": "4"
+        },
+        "Cracklos": {
+            "rating": "2258.56",
+            "Victories": "121",
+            "Draws": "16",
+            "Defeats": "42"
+        },
+        "BFischer94": {
+            "rating": "1605.82",
+            "Victories": "296",
+            "Draws": "29",
+            "Defeats": "212"
+        },
+        "Never_back_down": {
+            "rating": "2001.65",
+            "Victories": "3",
+            "Draws": "0",
+            "Defeats": "0"
+        },
+        "Sh1baWithAbankCard": {
+            "rating": "2089.80",
+            "Victories": "13",
+            "Draws": "0",
+            "Defeats": "6"
+        },
+        "KNIGHT_2O-O8": {
+            "rating": "2235.60",
+            "Victories": "23",
+            "Draws": "7",
+            "Defeats": "18"
+        },
+        "Anwesh9792": {
+            "rating": "2602.94",
+            "Victories": "238",
+            "Draws": "28",
+            "Defeats": "11"
+        },
+        "VladikSidorika": {
+            "rating": "2325.40",
+            "Victories": "30",
+            "Draws": "13",
+            "Defeats": "10"
+        },
+        "VahidBashirli": {
+            "rating": "2495.32",
+            "Victories": "54",
+            "Draws": "1",
+            "Defeats": "30"
+        },
+        "Evren15": {
+            "rating": "1819.14",
+            "Victories": "23",
+            "Draws": "2",
+            "Defeats": "26"
+        }
+    }
+}
